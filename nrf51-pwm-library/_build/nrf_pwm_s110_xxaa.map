@@ -1,0 +1,577 @@
+Archive member included because of file (symbol)
+
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+                              _build/main_sin.o (__aeabi_uidivmod)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+                              _build/main_sin.o (memcpy)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o) (__register_exitproc)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/main_sin.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x832 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0xa3 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x20e _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x3a _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x1f _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x242 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000     0x746b _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x976 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x832 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x52 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x16 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x35 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0xa3 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x20e _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x22 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x22 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x3a _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x1f _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x242 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000     0x746b _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x976 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x10 _build/system_nrf51.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000016000 0x000000000002a000 xr
+RAM              0x0000000020002000 0x0000000000002000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD _build/main_sin.o
+LOAD _build/nrf_pwm.o
+LOAD _build/system_nrf51.o
+LOAD _build/gcc_startup_nrf51.o
+START GROUP
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a
+END GROUP
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+START GROUP
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+END GROUP
+
+.text           0x0000000000016000     0x1520
+ *(.Vectors)
+ .Vectors       0x0000000000016000       0xc0 _build/gcc_startup_nrf51.o
+                0x0000000000016000                __Vectors
+ *(.text*)
+ .text          0x00000000000160c0        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .text          0x00000000000160c0       0x60 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .text          0x0000000000016120       0x78 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x0000000000016120                _mainCRTStartup
+                0x0000000000016120                _start
+ .text          0x0000000000016198        0x0 _build/main_sin.o
+ .text.nrf_delay_us
+                0x0000000000016198       0x34 _build/main_sin.o
+ .text.main     0x00000000000161cc       0xcc _build/main_sin.o
+                0x00000000000161cc                main
+ .text          0x0000000000016298        0x0 _build/nrf_pwm.o
+ .text.NVIC_EnableIRQ
+                0x0000000000016298       0x2c _build/nrf_pwm.o
+ .text.NVIC_SetPendingIRQ
+                0x00000000000162c4       0x34 _build/nrf_pwm.o
+ .text.NVIC_SetPriority
+                0x00000000000162f8       0xe0 _build/nrf_pwm.o
+ .text.nrf_gpiote_task_config
+                0x00000000000163d8       0xb8 _build/nrf_pwm.o
+ .text.nrf_gpiote_unconfig
+                0x0000000000016490       0x24 _build/nrf_pwm.o
+ .text.nrf_gpio_cfg_output
+                0x00000000000164b4       0x20 _build/nrf_pwm.o
+ .text.nrf_gpio_pin_set
+                0x00000000000164d4       0x20 _build/nrf_pwm.o
+ .text.nrf_gpio_pin_clear
+                0x00000000000164f4       0x20 _build/nrf_pwm.o
+ .text.nrf_gpio_pin_write
+                0x0000000000016514       0x28 _build/nrf_pwm.o
+ .text.apply_pan73_workaround
+                0x000000000001653c       0x60 _build/nrf_pwm.o
+ .text.safe_margins_present
+                0x000000000001659c       0x64 _build/nrf_pwm.o
+ .text.ppi_enable_channel
+                0x0000000000016600       0x50 _build/nrf_pwm.o
+ .text.nrf_pwm_init
+                0x0000000000016650      0x354 _build/nrf_pwm.o
+                0x0000000000016650                nrf_pwm_init
+ .text.nrf_pwm_set_value
+                0x00000000000169a4       0x34 _build/nrf_pwm.o
+                0x00000000000169a4                nrf_pwm_set_value
+ .text.nrf_pwm_set_values
+                0x00000000000169d8       0x50 _build/nrf_pwm.o
+                0x00000000000169d8                nrf_pwm_set_values
+ .text.nrf_pwm_set_max_value
+                0x0000000000016a28       0x18 _build/nrf_pwm.o
+                0x0000000000016a28                nrf_pwm_set_max_value
+ .text.nrf_pwm_set_enabled
+                0x0000000000016a40       0x9c _build/nrf_pwm.o
+                0x0000000000016a40                nrf_pwm_set_enabled
+ .text.TIMER2_IRQHandler
+                0x0000000000016adc      0x38c _build/nrf_pwm.o
+                0x0000000000016adc                TIMER2_IRQHandler
+ .text          0x0000000000016e68        0x0 _build/system_nrf51.o
+ .text.SystemCoreClockUpdate
+                0x0000000000016e68       0x18 _build/system_nrf51.o
+                0x0000000000016e68                SystemCoreClockUpdate
+ .text.SystemInit
+                0x0000000000016e80       0x44 _build/system_nrf51.o
+                0x0000000000016e80                SystemInit
+ .text.is_manual_peripheral_setup_needed
+                0x0000000000016ec4       0x80 _build/system_nrf51.o
+ .text.is_disabled_in_debug_needed
+                0x0000000000016f44       0x4c _build/system_nrf51.o
+ .text          0x0000000000016f90       0x54 _build/gcc_startup_nrf51.o
+                0x0000000000016f90                Reset_Handler
+                0x0000000000016fd8                NMI_Handler
+                0x0000000000016fda                HardFault_Handler
+                0x0000000000016fdc                SVC_Handler
+                0x0000000000016fde                PendSV_Handler
+                0x0000000000016fe0                SysTick_Handler
+                0x0000000000016fe2                SWI4_IRQHandler
+                0x0000000000016fe2                TEMP_IRQHandler
+                0x0000000000016fe2                QDEC_IRQHandler
+                0x0000000000016fe2                UART0_IRQHandler
+                0x0000000000016fe2                SWI5_IRQHandler
+                0x0000000000016fe2                TIMER0_IRQHandler
+                0x0000000000016fe2                SWI0_IRQHandler
+                0x0000000000016fe2                TIMER1_IRQHandler
+                0x0000000000016fe2                ECB_IRQHandler
+                0x0000000000016fe2                Default_Handler
+                0x0000000000016fe2                ADC_IRQHandler
+                0x0000000000016fe2                SWI3_IRQHandler
+                0x0000000000016fe2                CCM_AAR_IRQHandler
+                0x0000000000016fe2                WDT_IRQHandler
+                0x0000000000016fe2                SWI2_IRQHandler
+                0x0000000000016fe2                RNG_IRQHandler
+                0x0000000000016fe2                SPI1_TWI1_IRQHandler
+                0x0000000000016fe2                RTC1_IRQHandler
+                0x0000000000016fe2                SPI0_TWI0_IRQHandler
+                0x0000000000016fe2                SWI1_IRQHandler
+                0x0000000000016fe2                RTC0_IRQHandler
+                0x0000000000016fe2                GPIOTE_IRQHandler
+                0x0000000000016fe2                POWER_CLOCK_IRQHandler
+                0x0000000000016fe2                RADIO_IRQHandler
+                0x0000000000016fe2                LPCOMP_IRQHandler
+ .text          0x0000000000016fe4       0x9c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+                0x0000000000016fe4                __udivsi3
+                0x0000000000016fe4                __aeabi_uidiv
+                0x000000000001706c                __aeabi_uidivmod
+ .text          0x0000000000017080        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x0000000000017080                __aeabi_ldiv0
+                0x0000000000017080                __aeabi_idiv0
+ .text          0x0000000000017084        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000000017084       0x20 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+                0x0000000000017084                exit
+ .text          0x00000000000170a4        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .text          0x00000000000170a4        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000000170a4       0x48 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+                0x00000000000170a4                __libc_init_array
+ .text          0x00000000000170ec        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000000170ec       0x84 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+                0x00000000000170ec                memcpy
+ .text          0x0000000000017170        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .text.memset   0x0000000000017170       0xbc /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+                0x0000000000017170                memset
+ .text          0x000000000001722c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x000000000001722c       0x18 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000017244      0x118 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+                0x0000000000017244                __call_exitprocs
+ .text          0x000000000001735c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .text.atexit   0x000000000001735c       0x10 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+                0x000000000001735c                atexit
+ .text          0x000000000001736c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x000000000001736c       0x30 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+                0x000000000001736c                __libc_fini_array
+ .text          0x000000000001739c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x000000000001739c       0xc0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+                0x000000000001739c                __register_exitproc
+ .text          0x000000000001745c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .text          0x000000000001745c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .text          0x000000000001745c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .text._exit    0x000000000001745c        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x000000000001745c                _exit
+ *(.init)
+ .init          0x0000000000017460        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+                0x0000000000017460                _init
+ .init          0x0000000000017464        0x8 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x000000000001746c        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+                0x000000000001746c                _fini
+ .fini          0x0000000000017470        0x8 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x0000000000017478       0x78 _build/main_sin.o
+                0x0000000000017478                sin_table
+ .rodata        0x00000000000174f0       0x24 _build/nrf_pwm.o
+ .rodata.str1.4
+                0x0000000000017514        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000017518        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                0x0000000000017518                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x000000000001751c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .eh_frame      0x000000000001751c        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+
+.glue_7         0x0000000000017520        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x0000000000017520        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000017520        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000000017520        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000000017520        0x0
+ .iplt          0x0000000000000000        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.ARM.extab      0x0000000000017520        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000017520        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x0000000000017520        0x0 _build/gcc_startup_nrf51.o
+                0x0000000000017520                __exidx_start = .
+
+.ARM.exidx      0x0000000000017520        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000017520        0x8 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x0000000000017528        0x0 _build/gcc_startup_nrf51.o
+                                          0x8 (size before relaxing)
+                0x0000000000017528                __exidx_end = .
+                0x0000000000017528                __etext = .
+
+.rel.dyn        0x0000000000017528        0x0
+ .rel.iplt      0x0000000000000000        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.data           0x0000000020002000      0x44c load address 0x0000000000017528
+                0x0000000020002000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x0000000020002000        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .data          0x0000000020002000        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000020002000                __dso_handle
+ .data          0x0000000020002004        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x0000000020002004        0x0 _build/main_sin.o
+ .data          0x0000000020002004        0x4 _build/nrf_pwm.o
+ .data          0x0000000020002008        0x4 _build/system_nrf51.o
+                0x0000000020002008                SystemCoreClock
+ .data          0x000000002000200c        0x0 _build/gcc_startup_nrf51.o
+ .data          0x000000002000200c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x000000002000200c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .data          0x000000002000200c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .data          0x000000002000200c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ *fill*         0x000000002000200c        0x4 
+ .data.impure_data
+                0x0000000020002010      0x428 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000020002438        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                0x0000000020002438                _impure_ptr
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x000000002000243c                . = ALIGN (0x4)
+                0x000000002000243c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x000000002000243c                PROVIDE (__preinit_array_end, .)
+                0x000000002000243c                . = ALIGN (0x4)
+                0x000000002000243c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x000000002000243c        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x0000000020002440        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000020002444                PROVIDE (__init_array_end, .)
+                0x0000000020002444                . = ALIGN (0x4)
+                0x0000000020002444                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020002444        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000020002448                PROVIDE (__fini_array_end, .)
+ *(.jcr)
+ .jcr           0x0000000020002448        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .jcr           0x0000000020002448        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+                0x000000002000244c                . = ALIGN (0x4)
+                0x000000002000244c                __data_end__ = .
+
+.igot.plt       0x000000002000244c        0x0 load address 0x0000000000017974
+ .igot.plt      0x0000000000000000        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.bss            0x000000002000244c       0x6c load address 0x0000000000017974
+                0x000000002000244c                . = ALIGN (0x4)
+                0x000000002000244c                __bss_start__ = .
+ *(.bss*)
+ .bss           0x000000002000244c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .bss           0x000000002000244c       0x1c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .bss           0x0000000020002468        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x0000000020002468        0x0 _build/main_sin.o
+ .bss           0x0000000020002468       0x50 _build/nrf_pwm.o
+ .bss           0x00000000200024b8        0x0 _build/system_nrf51.o
+ .bss           0x00000000200024b8        0x0 _build/gcc_startup_nrf51.o
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .bss           0x00000000200024b8        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ *(COMMON)
+                0x00000000200024b8                . = ALIGN (0x4)
+                0x00000000200024b8                __bss_end__ = .
+
+.heap           0x00000000200024b8        0x0
+                0x00000000200024b8                __end__ = .
+                0x00000000200024b8                end = __end__
+ *(.heap*)
+ .heap          0x00000000200024b8        0x0 _build/gcc_startup_nrf51.o
+                0x00000000200024b8                __HeapLimit = .
+
+.stack_dummy    0x00000000200024b8      0x800
+ *(.stack*)
+ .stack         0x00000000200024b8      0x800 _build/gcc_startup_nrf51.o
+                0x0000000020004000                __StackTop = (ORIGIN (RAM) + 0x2000)
+                0x0000000020003800                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020004000                PROVIDE (__stack, __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/nrf_pwm_s110_xxaa.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x28
+ .ARM.attributes
+                0x0000000000000000       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x31 _build/main_sin.o
+ .ARM.attributes
+                0x0000000000000096       0x31 _build/nrf_pwm.o
+ .ARM.attributes
+                0x00000000000000c7       0x31 _build/system_nrf51.o
+ .ARM.attributes
+                0x00000000000000f8       0x1b _build/gcc_startup_nrf51.o
+ .ARM.attributes
+                0x0000000000000113       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000131       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000000000014f       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000000000000017b       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000000001a7       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000001d3       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000001ff       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000022b       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000257       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000283       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000002af       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000000002db       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x0000000000000307       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .ARM.attributes
+                0x0000000000000325       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+
+.comment        0x0000000000000000       0x70
+ .comment       0x0000000000000000       0x70 _build/main_sin.o
+                                         0x71 (size before relaxing)
+ .comment       0x0000000000000000       0x71 _build/nrf_pwm.o
+ .comment       0x0000000000000000       0x71 _build/system_nrf51.o
+
+.debug_info     0x0000000000000000     0x12af
+ .debug_info    0x0000000000000000      0x1af _build/main_sin.o
+ .debug_info    0x00000000000001af      0xe76 _build/nrf_pwm.o
+ .debug_info    0x0000000000001025      0x1a6 _build/system_nrf51.o
+ .debug_info    0x00000000000011cb       0xe4 _build/gcc_startup_nrf51.o
+
+.debug_abbrev   0x0000000000000000      0x427
+ .debug_abbrev  0x0000000000000000       0xef _build/main_sin.o
+ .debug_abbrev  0x00000000000000ef      0x230 _build/nrf_pwm.o
+ .debug_abbrev  0x000000000000031f       0xf4 _build/system_nrf51.o
+ .debug_abbrev  0x0000000000000413       0x14 _build/gcc_startup_nrf51.o
+
+.debug_aranges  0x0000000000000000      0x128
+ .debug_aranges
+                0x0000000000000000       0x28 _build/main_sin.o
+ .debug_aranges
+                0x0000000000000028       0xa8 _build/nrf_pwm.o
+ .debug_aranges
+                0x00000000000000d0       0x38 _build/system_nrf51.o
+ .debug_aranges
+                0x0000000000000108       0x20 _build/gcc_startup_nrf51.o
+
+.debug_ranges   0x0000000000000000       0xd8
+ .debug_ranges  0x0000000000000000       0x18 _build/main_sin.o
+ .debug_ranges  0x0000000000000018       0x98 _build/nrf_pwm.o
+ .debug_ranges  0x00000000000000b0       0x28 _build/system_nrf51.o
+
+.debug_macro    0x0000000000000000     0x92a7
+ .debug_macro   0x0000000000000000      0x10a _build/main_sin.o
+ .debug_macro   0x000000000000010a      0x832 _build/main_sin.o
+ .debug_macro   0x000000000000093c       0x22 _build/main_sin.o
+ .debug_macro   0x000000000000095e       0x52 _build/main_sin.o
+ .debug_macro   0x00000000000009b0       0x16 _build/main_sin.o
+ .debug_macro   0x00000000000009c6       0x35 _build/main_sin.o
+ .debug_macro   0x00000000000009fb       0xa3 _build/main_sin.o
+ .debug_macro   0x0000000000000a9e      0x20e _build/main_sin.o
+ .debug_macro   0x0000000000000cac       0x22 _build/main_sin.o
+ .debug_macro   0x0000000000000cce       0x3a _build/main_sin.o
+ .debug_macro   0x0000000000000d08       0x1f _build/main_sin.o
+ .debug_macro   0x0000000000000d27      0x242 _build/main_sin.o
+ .debug_macro   0x0000000000000f69      0x1d2 _build/main_sin.o
+ .debug_macro   0x000000000000113b     0x746b _build/main_sin.o
+ .debug_macro   0x00000000000085a6      0x976 _build/main_sin.o
+ .debug_macro   0x0000000000008f1c       0x10 _build/main_sin.o
+ .debug_macro   0x0000000000008f2c       0x3a _build/main_sin.o
+ .debug_macro   0x0000000000008f66      0x124 _build/main_sin.o
+ .debug_macro   0x000000000000908a      0x109 _build/nrf_pwm.o
+ .debug_macro   0x0000000000009193       0x34 _build/nrf_pwm.o
+ .debug_macro   0x00000000000091c7       0xe0 _build/system_nrf51.o
+
+.debug_line     0x0000000000000000      0xd9a
+ .debug_line    0x0000000000000000      0x385 _build/main_sin.o
+ .debug_line    0x0000000000000385      0x60b _build/nrf_pwm.o
+ .debug_line    0x0000000000000990      0x36f _build/system_nrf51.o
+ .debug_line    0x0000000000000cff       0x9b _build/gcc_startup_nrf51.o
+
+.debug_str      0x0000000000000000    0x2f8c9
+ .debug_str     0x0000000000000000    0x2f08b _build/main_sin.o
+                                      0x2f19a (size before relaxing)
+ .debug_str     0x000000000002f08b      0x733 _build/nrf_pwm.o
+                                      0x2f530 (size before relaxing)
+ .debug_str     0x000000000002f7be      0x10b _build/system_nrf51.o
+                                      0x2ecc8 (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x504
+ .debug_frame   0x0000000000000000       0x50 _build/main_sin.o
+ .debug_frame   0x0000000000000050      0x258 _build/nrf_pwm.o
+ .debug_frame   0x00000000000002a8       0x80 _build/system_nrf51.o
+ .debug_frame   0x0000000000000328       0x20 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000000348       0x28 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000370       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .debug_frame   0x000000000000039c       0x30 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000000003cc       0x38 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000404       0x54 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000458       0x28 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000480       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000000004ac       0x38 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000000004e4       0x20 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)

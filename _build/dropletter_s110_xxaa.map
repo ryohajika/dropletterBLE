@@ -1,0 +1,2819 @@
+Archive member included because of file (symbol)
+
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+                              _build/main.o (__aeabi_fcmple)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(eqsf2.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_arm_cmpsf2.o) (__eqsf2)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(gesf2.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_arm_cmpsf2.o) (__gesf2)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(lesf2.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_arm_cmpsf2.o) (__lesf2)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatsisf.o)
+                              _build/main.o (__aeabi_i2f)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatunsisf.o)
+                              _build/main.o (__aeabi_ui2f)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(adddf3.o)
+                              _build/main.o (__aeabi_dadd)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(divdf3.o)
+                              _build/main.o (__aeabi_ddiv)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(extendsfdf2.o)
+                              _build/main.o (__aeabi_f2d)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(truncdfsf2.o)
+                              _build/main.o (__aeabi_d2f)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(divdf3.o) (__aeabi_uidiv)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_clzsi2.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatsisf.o) (__clzsi2)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atoi.o)
+                              _build/main.o (atoi)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+                              _build/main.o (memcpy)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strncpy.o)
+                              _build/ble_debug_assert_handler.o (strncpy)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strtol.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atoi.o) (_strtol_r)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-ctype_.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strtol.o) (__ctype_ptr__)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o) (__register_exitproc)
+/Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                              /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+val_rcvd_ble        0x4               _build/main.o
+counter_illuminate  0x1               _build/main.o
+is_val_rcvd_ble     0x1               _build/main.o
+__stdin             0x68              _build/app_trace.o
+counter_motor       0x1               _build/main.o
+val_total_stored    0x4               _build/main.o
+is_sensor_reacting  0x1               _build/main.o
+__stdout            0x68              _build/app_trace.o
+val_target_illuminate_pos
+                    0x1               _build/main.o
+val_adc_result      0x1               _build/main.o
+is_motor_running    0x1               _build/main.o
+is_led_illuminating
+                    0x1               _build/main.o
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/main.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/ble_nus.o
+ .debug_macro   0x0000000000000000      0x832 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0xd6 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0xa3 _build/ble_nus.o
+ .debug_macro   0x0000000000000000      0x20e _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_nus.o
+ .debug_macro   0x0000000000000000      0x308 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x8e _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x34 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_nus.o
+ .debug_macro   0x0000000000000000      0x1d5 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0xb8 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x1c _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_nus.o
+ .debug_macro   0x0000000000000000      0x245 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0xf4 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x3a _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x43 _build/ble_nus.o
+ .debug_macro   0x0000000000000000      0x180 _build/ble_nus.o
+ .debug_macro   0x0000000000000000      0x2a6 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_nus.o
+ .debug_macro   0x0000000000000000       0x1f _build/ble_nus.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000      0x832 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x52 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x35 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0xa3 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000      0x10e _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x7f _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x3a _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x52 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x43 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000      0x180 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x29 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0xf4 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x10 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x22 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x3a _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x1f _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000      0x242 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x22 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000     0x746b _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x8e _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x64 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x1c _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x10 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x22 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0xd6 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000      0x1e1 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x22 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000      0x1d5 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0xb8 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x1c _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x10 _build/softdevice_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/softdevice_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000      0x832 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0xa3 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000      0x20e _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000      0x166 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x3a _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x43 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000      0x180 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000      0x2a6 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x1f _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0xd6 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000      0x1e1 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000      0x308 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x8e _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x34 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000      0x1d5 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0xb8 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x1c _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x1c _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000       0xf4 _build/ble_advdata.o
+ .debug_macro   0x0000000000000000      0x245 _build/ble_advdata.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000      0x832 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0xa3 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000      0x20e _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000      0x166 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x3a _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x43 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000      0x180 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000      0x2a6 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x1f _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x3a _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x1f _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000      0x242 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_debug_assert_handler.o
+ .debug_macro   0x0000000000000000       0xf4 _build/ble_debug_assert_handler.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000      0x832 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0xa3 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000      0x166 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x3a _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x43 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000      0x180 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000      0x214 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000      0x2a6 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x1f _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x3a _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x1f _build/ble_error_log.o
+ .debug_macro   0x0000000000000000      0x242 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x8e _build/ble_error_log.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_error_log.o
+ .debug_macro   0x0000000000000000     0x746b _build/ble_error_log.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000      0x832 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0xa3 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000      0x20e _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0xd6 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000      0x1e1 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000      0x308 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x8e _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x34 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000      0x1d5 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0xb8 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x1c _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x1c _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000      0x245 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000      0x10e _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x7f _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x3a _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x52 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x43 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000      0x180 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x29 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0xf4 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0xa6 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x1c _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x35 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x10 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x22 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0xbd _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000      0x16c _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x16 _build/ble_conn_params.o
+ .debug_macro   0x0000000000000000       0x41 _build/ble_conn_params.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x832 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0xa3 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x20e _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x43 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x180 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0xbd _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x16c _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x8e _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x41 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x29 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x1f _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x242 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/app_timer.o
+ .debug_macro   0x0000000000000000     0x746b _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x40 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x64 _build/app_timer.o
+ .debug_macro   0x0000000000000000      0x976 _build/app_timer.o
+ .debug_macro   0x0000000000000000       0x28 _build/app_timer.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_trace.o
+ .debug_macro   0x0000000000000000      0x832 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0xa3 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x97 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0xef _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x43 _build/app_trace.o
+ .debug_macro   0x0000000000000000      0x180 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0xbd _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_trace.o
+ .debug_macro   0x0000000000000000      0x16c _build/app_trace.o
+ .debug_macro   0x0000000000000000      0x214 _build/app_trace.o
+ .debug_macro   0x0000000000000000      0x2a6 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x1f _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x1f _build/app_trace.o
+ .debug_macro   0x0000000000000000      0x242 _build/app_trace.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x8e _build/app_trace.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_trace.o
+ .debug_macro   0x0000000000000000     0x746b _build/app_trace.o
+ .debug_macro   0x0000000000000000      0x976 _build/app_trace.o
+ .debug_macro   0x0000000000000000       0xf4 _build/app_trace.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000      0x832 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0xa3 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000      0x20e _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x1f _build/app_gpiote.o
+ .debug_macro   0x0000000000000000      0x242 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000     0x746b _build/app_gpiote.o
+ .debug_macro   0x0000000000000000      0x976 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x8e _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x1c _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000      0x10e _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x7f _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x3a _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x52 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x43 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000      0x180 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x16 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x29 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000      0x2a6 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x10 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x35 _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x1f _build/app_gpiote.o
+ .debug_macro   0x0000000000000000       0x22 _build/app_gpiote.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x832 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x52 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x16 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x35 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0xa3 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x20e _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x22 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x3a _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x1f _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x242 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000     0x746b _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000      0x976 _build/nrf_pwm.o
+ .debug_macro   0x0000000000000000       0x10 _build/nrf_pwm.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .group         0x0000000000000000        0x8 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x832 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x52 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x16 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x35 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0xa3 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x20e _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x22 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x22 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x3a _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x1f _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x242 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x1d2 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000     0x746b _build/system_nrf51.o
+ .debug_macro   0x0000000000000000      0x976 _build/system_nrf51.o
+ .debug_macro   0x0000000000000000       0x10 _build/system_nrf51.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000016000 0x000000000002a000 xr
+RAM              0x0000000020002000 0x0000000000002000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD _build/main.o
+LOAD _build/ble_nus.o
+LOAD _build/softdevice_handler.o
+LOAD _build/ble_advdata.o
+LOAD _build/ble_debug_assert_handler.o
+LOAD _build/ble_error_log.o
+LOAD _build/ble_conn_params.o
+LOAD _build/app_timer.o
+LOAD _build/app_trace.o
+LOAD _build/app_gpiote.o
+LOAD _build/nrf_pwm.o
+LOAD _build/system_nrf51.o
+LOAD _build/gcc_startup_nrf51.o
+START GROUP
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a
+END GROUP
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+START GROUP
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a
+LOAD /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a
+END GROUP
+
+.text           0x0000000000016000     0x7460
+ *(.Vectors)
+ .Vectors       0x0000000000016000       0xc0 _build/gcc_startup_nrf51.o
+                0x0000000000016000                __Vectors
+ *(.text*)
+ .text          0x00000000000160c0        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .text          0x00000000000160c0       0x60 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .text          0x0000000000016120       0x78 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+                0x0000000000016120                _mainCRTStartup
+                0x0000000000016120                _start
+ .text          0x0000000000016198        0x0 _build/main.o
+ .text.NVIC_SystemReset
+                0x0000000000016198       0x1c _build/main.o
+ .text.sd_ble_gap_address_set
+                0x00000000000161b4        0x8 _build/main.o
+ .text.sd_ble_gap_address_get
+                0x00000000000161bc        0x8 _build/main.o
+ .text.sd_ble_gap_adv_data_set
+                0x00000000000161c4        0x8 _build/main.o
+ .text.sd_ble_gap_adv_start
+                0x00000000000161cc        0x8 _build/main.o
+ .text.sd_ble_gap_adv_stop
+                0x00000000000161d4        0x8 _build/main.o
+ .text.sd_ble_gap_conn_param_update
+                0x00000000000161dc        0x8 _build/main.o
+ .text.sd_ble_gap_disconnect
+                0x00000000000161e4        0x8 _build/main.o
+ .text.sd_ble_gap_tx_power_set
+                0x00000000000161ec        0x8 _build/main.o
+ .text.sd_ble_gap_appearance_set
+                0x00000000000161f4        0x8 _build/main.o
+ .text.sd_ble_gap_appearance_get
+                0x00000000000161fc        0x8 _build/main.o
+ .text.sd_ble_gap_ppcp_set
+                0x0000000000016204        0x8 _build/main.o
+ .text.sd_ble_gap_ppcp_get
+                0x000000000001620c        0x8 _build/main.o
+ .text.sd_ble_gap_device_name_set
+                0x0000000000016214        0x8 _build/main.o
+ .text.sd_ble_gap_device_name_get
+                0x000000000001621c        0x8 _build/main.o
+ .text.sd_ble_gap_authenticate
+                0x0000000000016224        0x8 _build/main.o
+ .text.sd_ble_gap_sec_params_reply
+                0x000000000001622c        0x8 _build/main.o
+ .text.sd_ble_gap_auth_key_reply
+                0x0000000000016234        0x8 _build/main.o
+ .text.sd_ble_gap_sec_info_reply
+                0x000000000001623c        0x8 _build/main.o
+ .text.sd_ble_gap_conn_sec_get
+                0x0000000000016244        0x8 _build/main.o
+ .text.sd_ble_gap_rssi_start
+                0x000000000001624c        0x8 _build/main.o
+ .text.sd_ble_gap_rssi_stop
+                0x0000000000016254        0x8 _build/main.o
+ .text.sd_ble_l2cap_cid_register
+                0x000000000001625c        0x8 _build/main.o
+ .text.sd_ble_l2cap_cid_unregister
+                0x0000000000016264        0x8 _build/main.o
+ .text.sd_ble_l2cap_tx
+                0x000000000001626c        0x8 _build/main.o
+ .text.sd_ble_gattc_primary_services_discover
+                0x0000000000016274        0x8 _build/main.o
+ .text.sd_ble_gattc_relationships_discover
+                0x000000000001627c        0x8 _build/main.o
+ .text.sd_ble_gattc_characteristics_discover
+                0x0000000000016284        0x8 _build/main.o
+ .text.sd_ble_gattc_descriptors_discover
+                0x000000000001628c        0x8 _build/main.o
+ .text.sd_ble_gattc_char_value_by_uuid_read
+                0x0000000000016294        0x8 _build/main.o
+ .text.sd_ble_gattc_read
+                0x000000000001629c        0x8 _build/main.o
+ .text.sd_ble_gattc_char_values_read
+                0x00000000000162a4        0x8 _build/main.o
+ .text.sd_ble_gattc_write
+                0x00000000000162ac        0x8 _build/main.o
+ .text.sd_ble_gattc_hv_confirm
+                0x00000000000162b4        0x8 _build/main.o
+ .text.sd_ble_gatts_service_add
+                0x00000000000162bc        0x8 _build/main.o
+ .text.sd_ble_gatts_include_add
+                0x00000000000162c4        0x8 _build/main.o
+ .text.sd_ble_gatts_characteristic_add
+                0x00000000000162cc        0x8 _build/main.o
+ .text.sd_ble_gatts_descriptor_add
+                0x00000000000162d4        0x8 _build/main.o
+ .text.sd_ble_gatts_value_set
+                0x00000000000162dc        0x8 _build/main.o
+ .text.sd_ble_gatts_value_get
+                0x00000000000162e4        0x8 _build/main.o
+ .text.sd_ble_gatts_hvx
+                0x00000000000162ec        0x8 _build/main.o
+ .text.sd_ble_gatts_service_changed
+                0x00000000000162f4        0x8 _build/main.o
+ .text.sd_ble_gatts_rw_authorize_reply
+                0x00000000000162fc        0x8 _build/main.o
+ .text.sd_ble_gatts_sys_attr_set
+                0x0000000000016304        0x8 _build/main.o
+ .text.sd_ble_gatts_sys_attr_get
+                0x000000000001630c        0x8 _build/main.o
+ .text.sd_ble_enable
+                0x0000000000016314        0x8 _build/main.o
+ .text.sd_ble_evt_get
+                0x000000000001631c        0x8 _build/main.o
+ .text.sd_ble_tx_buffer_count_get
+                0x0000000000016324        0x8 _build/main.o
+ .text.sd_ble_uuid_vs_add
+                0x000000000001632c        0x8 _build/main.o
+ .text.sd_ble_uuid_decode
+                0x0000000000016334        0x8 _build/main.o
+ .text.sd_ble_uuid_encode
+                0x000000000001633c        0x8 _build/main.o
+ .text.sd_ble_version_get
+                0x0000000000016344        0x8 _build/main.o
+ .text.sd_ble_user_mem_reply
+                0x000000000001634c        0x8 _build/main.o
+ .text.sd_ble_opt_set
+                0x0000000000016354        0x8 _build/main.o
+ .text.sd_ble_opt_get
+                0x000000000001635c        0x8 _build/main.o
+ .text.sd_mutex_new
+                0x0000000000016364        0x8 _build/main.o
+ .text.sd_mutex_acquire
+                0x000000000001636c        0x8 _build/main.o
+ .text.sd_mutex_release
+                0x0000000000016374        0x8 _build/main.o
+ .text.sd_nvic_EnableIRQ
+                0x000000000001637c        0x8 _build/main.o
+ .text.sd_nvic_DisableIRQ
+                0x0000000000016384        0x8 _build/main.o
+ .text.sd_nvic_GetPendingIRQ
+                0x000000000001638c        0x8 _build/main.o
+ .text.sd_nvic_SetPendingIRQ
+                0x0000000000016394        0x8 _build/main.o
+ .text.sd_nvic_ClearPendingIRQ
+                0x000000000001639c        0x8 _build/main.o
+ .text.sd_nvic_SetPriority
+                0x00000000000163a4        0x8 _build/main.o
+ .text.sd_nvic_GetPriority
+                0x00000000000163ac        0x8 _build/main.o
+ .text.sd_nvic_SystemReset
+                0x00000000000163b4        0x8 _build/main.o
+ .text.sd_nvic_critical_region_enter
+                0x00000000000163bc        0x8 _build/main.o
+ .text.sd_nvic_critical_region_exit
+                0x00000000000163c4        0x8 _build/main.o
+ .text.sd_rand_application_pool_capacity_get
+                0x00000000000163cc        0x8 _build/main.o
+ .text.sd_rand_application_bytes_available_get
+                0x00000000000163d4        0x8 _build/main.o
+ .text.sd_rand_application_vector_get
+                0x00000000000163dc        0x8 _build/main.o
+ .text.sd_power_reset_reason_get
+                0x00000000000163e4        0x8 _build/main.o
+ .text.sd_power_reset_reason_clr
+                0x00000000000163ec        0x8 _build/main.o
+ .text.sd_power_mode_set
+                0x00000000000163f4        0x8 _build/main.o
+ .text.sd_power_system_off
+                0x00000000000163fc        0x8 _build/main.o
+ .text.sd_power_pof_enable
+                0x0000000000016404        0x8 _build/main.o
+ .text.sd_power_pof_threshold_set
+                0x000000000001640c        0x8 _build/main.o
+ .text.sd_power_ramon_set
+                0x0000000000016414        0x8 _build/main.o
+ .text.sd_power_ramon_clr
+                0x000000000001641c        0x8 _build/main.o
+ .text.sd_power_ramon_get
+                0x0000000000016424        0x8 _build/main.o
+ .text.sd_power_gpregret_set
+                0x000000000001642c        0x8 _build/main.o
+ .text.sd_power_gpregret_clr
+                0x0000000000016434        0x8 _build/main.o
+ .text.sd_power_gpregret_get
+                0x000000000001643c        0x8 _build/main.o
+ .text.sd_power_dcdc_mode_set
+                0x0000000000016444        0x8 _build/main.o
+ .text.sd_clock_hfclk_request
+                0x000000000001644c        0x8 _build/main.o
+ .text.sd_clock_hfclk_release
+                0x0000000000016454        0x8 _build/main.o
+ .text.sd_clock_hfclk_is_running
+                0x000000000001645c        0x8 _build/main.o
+ .text.sd_app_evt_wait
+                0x0000000000016464        0x8 _build/main.o
+ .text.sd_ppi_channel_enable_get
+                0x000000000001646c        0x8 _build/main.o
+ .text.sd_ppi_channel_enable_set
+                0x0000000000016474        0x8 _build/main.o
+ .text.sd_ppi_channel_enable_clr
+                0x000000000001647c        0x8 _build/main.o
+ .text.sd_ppi_channel_assign
+                0x0000000000016484        0x8 _build/main.o
+ .text.sd_ppi_group_task_enable
+                0x000000000001648c        0x8 _build/main.o
+ .text.sd_ppi_group_task_disable
+                0x0000000000016494        0x8 _build/main.o
+ .text.sd_ppi_group_assign
+                0x000000000001649c        0x8 _build/main.o
+ .text.sd_ppi_group_get
+                0x00000000000164a4        0x8 _build/main.o
+ .text.sd_radio_notification_cfg_set
+                0x00000000000164ac        0x8 _build/main.o
+ .text.sd_ecb_block_encrypt
+                0x00000000000164b4        0x8 _build/main.o
+ .text.sd_evt_get
+                0x00000000000164bc        0x8 _build/main.o
+ .text.sd_temp_get
+                0x00000000000164c4        0x8 _build/main.o
+ .text.sd_flash_write
+                0x00000000000164cc        0x8 _build/main.o
+ .text.sd_flash_page_erase
+                0x00000000000164d4        0x8 _build/main.o
+ .text.sd_flash_protect
+                0x00000000000164dc        0x8 _build/main.o
+ .text.sd_radio_session_open
+                0x00000000000164e4        0x8 _build/main.o
+ .text.sd_radio_session_close
+                0x00000000000164ec        0x8 _build/main.o
+ .text.sd_radio_request
+                0x00000000000164f4        0x8 _build/main.o
+ .text.sd_softdevice_enable
+                0x00000000000164fc        0x8 _build/main.o
+ .text.sd_softdevice_disable
+                0x0000000000016504        0x8 _build/main.o
+ .text.sd_softdevice_is_enabled
+                0x000000000001650c        0x8 _build/main.o
+ .text.sd_softdevice_vector_table_base_set
+                0x0000000000016514        0x8 _build/main.o
+ .text.adc_sampling_timeout_handler
+                0x000000000001651c       0x34 _build/main.o
+ .text.application_timers_start
+                0x0000000000016550       0x44 _build/main.o
+ .text.adc_init
+                0x0000000000016594       0x3c _build/main.o
+ .text.ADC_IRQHandler
+                0x00000000000165d0      0x138 _build/main.o
+                0x00000000000165d0                ADC_IRQHandler
+ .text.app_error_handler
+                0x0000000000016708       0x18 _build/main.o
+                0x0000000000016708                app_error_handler
+ .text.assert_nrf_callback
+                0x0000000000016720       0x2c _build/main.o
+                0x0000000000016720                assert_nrf_callback
+ .text.timers_init
+                0x000000000001674c       0x7c _build/main.o
+ .text.gap_params_init
+                0x00000000000167c8       0xac _build/main.o
+ .text.advertising_init
+                0x0000000000016874       0xa8 _build/main.o
+ *fill*         0x000000000001691c        0x4 
+ .text.nus_data_handler
+                0x0000000000016920      0x160 _build/main.o
+                0x0000000000016920                nus_data_handler
+ .text.services_init
+                0x0000000000016a80       0x58 _build/main.o
+ .text.sec_params_init
+                0x0000000000016ad8       0x4c _build/main.o
+ .text.on_conn_params_evt
+                0x0000000000016b24       0x4c _build/main.o
+ .text.conn_params_error_handler
+                0x0000000000016b70       0x24 _build/main.o
+ .text.conn_params_init
+                0x0000000000016b94       0x84 _build/main.o
+ .text.advertising_start
+                0x0000000000016c18       0x64 _build/main.o
+ .text.on_ble_evt
+                0x0000000000016c7c      0x154 _build/main.o
+ .text.ble_evt_dispatch
+                0x0000000000016dd0       0x30 _build/main.o
+ .text.ble_stack_init
+                0x0000000000016e00       0xb0 _build/main.o
+ .text.power_manage
+                0x0000000000016eb0       0x34 _build/main.o
+ .text.main     0x0000000000016ee4       0xe0 _build/main.o
+                0x0000000000016ee4                main
+ .text          0x0000000000016fc4        0x0 _build/ble_nus.o
+ .text.sd_ble_gap_address_set
+                0x0000000000016fc4        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_address_get
+                0x0000000000016fcc        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_adv_data_set
+                0x0000000000016fd4        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_adv_start
+                0x0000000000016fdc        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_adv_stop
+                0x0000000000016fe4        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_conn_param_update
+                0x0000000000016fec        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_disconnect
+                0x0000000000016ff4        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_tx_power_set
+                0x0000000000016ffc        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_appearance_set
+                0x0000000000017004        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_appearance_get
+                0x000000000001700c        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_ppcp_set
+                0x0000000000017014        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_ppcp_get
+                0x000000000001701c        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_device_name_set
+                0x0000000000017024        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_device_name_get
+                0x000000000001702c        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_authenticate
+                0x0000000000017034        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_sec_params_reply
+                0x000000000001703c        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_auth_key_reply
+                0x0000000000017044        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_sec_info_reply
+                0x000000000001704c        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_conn_sec_get
+                0x0000000000017054        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_rssi_start
+                0x000000000001705c        0x8 _build/ble_nus.o
+ .text.sd_ble_gap_rssi_stop
+                0x0000000000017064        0x8 _build/ble_nus.o
+ .text.sd_ble_l2cap_cid_register
+                0x000000000001706c        0x8 _build/ble_nus.o
+ .text.sd_ble_l2cap_cid_unregister
+                0x0000000000017074        0x8 _build/ble_nus.o
+ .text.sd_ble_l2cap_tx
+                0x000000000001707c        0x8 _build/ble_nus.o
+ .text.sd_ble_gattc_primary_services_discover
+                0x0000000000017084        0x8 _build/ble_nus.o
+ .text.sd_ble_gattc_relationships_discover
+                0x000000000001708c        0x8 _build/ble_nus.o
+ .text.sd_ble_gattc_characteristics_discover
+                0x0000000000017094        0x8 _build/ble_nus.o
+ .text.sd_ble_gattc_descriptors_discover
+                0x000000000001709c        0x8 _build/ble_nus.o
+ .text.sd_ble_gattc_char_value_by_uuid_read
+                0x00000000000170a4        0x8 _build/ble_nus.o
+ .text.sd_ble_gattc_read
+                0x00000000000170ac        0x8 _build/ble_nus.o
+ .text.sd_ble_gattc_char_values_read
+                0x00000000000170b4        0x8 _build/ble_nus.o
+ .text.sd_ble_gattc_write
+                0x00000000000170bc        0x8 _build/ble_nus.o
+ .text.sd_ble_gattc_hv_confirm
+                0x00000000000170c4        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_service_add
+                0x00000000000170cc        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_include_add
+                0x00000000000170d4        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_characteristic_add
+                0x00000000000170dc        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_descriptor_add
+                0x00000000000170e4        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_value_set
+                0x00000000000170ec        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_value_get
+                0x00000000000170f4        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_hvx
+                0x00000000000170fc        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_service_changed
+                0x0000000000017104        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_rw_authorize_reply
+                0x000000000001710c        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_sys_attr_set
+                0x0000000000017114        0x8 _build/ble_nus.o
+ .text.sd_ble_gatts_sys_attr_get
+                0x000000000001711c        0x8 _build/ble_nus.o
+ .text.sd_ble_enable
+                0x0000000000017124        0x8 _build/ble_nus.o
+ .text.sd_ble_evt_get
+                0x000000000001712c        0x8 _build/ble_nus.o
+ .text.sd_ble_tx_buffer_count_get
+                0x0000000000017134        0x8 _build/ble_nus.o
+ .text.sd_ble_uuid_vs_add
+                0x000000000001713c        0x8 _build/ble_nus.o
+ .text.sd_ble_uuid_decode
+                0x0000000000017144        0x8 _build/ble_nus.o
+ .text.sd_ble_uuid_encode
+                0x000000000001714c        0x8 _build/ble_nus.o
+ .text.sd_ble_version_get
+                0x0000000000017154        0x8 _build/ble_nus.o
+ .text.sd_ble_user_mem_reply
+                0x000000000001715c        0x8 _build/ble_nus.o
+ .text.sd_ble_opt_set
+                0x0000000000017164        0x8 _build/ble_nus.o
+ .text.sd_ble_opt_get
+                0x000000000001716c        0x8 _build/ble_nus.o
+ .text.uint16_decode
+                0x0000000000017174       0x28 _build/ble_nus.o
+ .text.ble_srv_is_notification_enabled
+                0x000000000001719c       0x30 _build/ble_nus.o
+ .text.on_connect
+                0x00000000000171cc       0x18 _build/ble_nus.o
+ .text.on_disconnect
+                0x00000000000171e4       0x18 _build/ble_nus.o
+ .text.on_write
+                0x00000000000171fc       0x70 _build/ble_nus.o
+ .text.rx_char_add
+                0x000000000001726c      0x198 _build/ble_nus.o
+ .text.tx_char_add
+                0x0000000000017404      0x144 _build/ble_nus.o
+ .text.ble_nus_on_ble_evt
+                0x0000000000017548       0x5c _build/ble_nus.o
+                0x0000000000017548                ble_nus_on_ble_evt
+ .text.ble_nus_init
+                0x00000000000175a4       0xd8 _build/ble_nus.o
+                0x00000000000175a4                ble_nus_init
+ .text.ble_nus_send_string
+                0x000000000001767c       0x90 _build/ble_nus.o
+                0x000000000001767c                ble_nus_send_string
+ .text          0x000000000001770c        0x0 _build/softdevice_handler.o
+ .text.sd_mutex_new
+                0x000000000001770c        0x8 _build/softdevice_handler.o
+ .text.sd_mutex_acquire
+                0x0000000000017714        0x8 _build/softdevice_handler.o
+ .text.sd_mutex_release
+                0x000000000001771c        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_EnableIRQ
+                0x0000000000017724        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_DisableIRQ
+                0x000000000001772c        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_GetPendingIRQ
+                0x0000000000017734        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_SetPendingIRQ
+                0x000000000001773c        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_ClearPendingIRQ
+                0x0000000000017744        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_SetPriority
+                0x000000000001774c        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_GetPriority
+                0x0000000000017754        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_SystemReset
+                0x000000000001775c        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_critical_region_enter
+                0x0000000000017764        0x8 _build/softdevice_handler.o
+ .text.sd_nvic_critical_region_exit
+                0x000000000001776c        0x8 _build/softdevice_handler.o
+ .text.sd_rand_application_pool_capacity_get
+                0x0000000000017774        0x8 _build/softdevice_handler.o
+ .text.sd_rand_application_bytes_available_get
+                0x000000000001777c        0x8 _build/softdevice_handler.o
+ .text.sd_rand_application_vector_get
+                0x0000000000017784        0x8 _build/softdevice_handler.o
+ .text.sd_power_reset_reason_get
+                0x000000000001778c        0x8 _build/softdevice_handler.o
+ .text.sd_power_reset_reason_clr
+                0x0000000000017794        0x8 _build/softdevice_handler.o
+ .text.sd_power_mode_set
+                0x000000000001779c        0x8 _build/softdevice_handler.o
+ .text.sd_power_system_off
+                0x00000000000177a4        0x8 _build/softdevice_handler.o
+ .text.sd_power_pof_enable
+                0x00000000000177ac        0x8 _build/softdevice_handler.o
+ .text.sd_power_pof_threshold_set
+                0x00000000000177b4        0x8 _build/softdevice_handler.o
+ .text.sd_power_ramon_set
+                0x00000000000177bc        0x8 _build/softdevice_handler.o
+ .text.sd_power_ramon_clr
+                0x00000000000177c4        0x8 _build/softdevice_handler.o
+ .text.sd_power_ramon_get
+                0x00000000000177cc        0x8 _build/softdevice_handler.o
+ .text.sd_power_gpregret_set
+                0x00000000000177d4        0x8 _build/softdevice_handler.o
+ .text.sd_power_gpregret_clr
+                0x00000000000177dc        0x8 _build/softdevice_handler.o
+ .text.sd_power_gpregret_get
+                0x00000000000177e4        0x8 _build/softdevice_handler.o
+ .text.sd_power_dcdc_mode_set
+                0x00000000000177ec        0x8 _build/softdevice_handler.o
+ .text.sd_clock_hfclk_request
+                0x00000000000177f4        0x8 _build/softdevice_handler.o
+ .text.sd_clock_hfclk_release
+                0x00000000000177fc        0x8 _build/softdevice_handler.o
+ .text.sd_clock_hfclk_is_running
+                0x0000000000017804        0x8 _build/softdevice_handler.o
+ .text.sd_app_evt_wait
+                0x000000000001780c        0x8 _build/softdevice_handler.o
+ .text.sd_ppi_channel_enable_get
+                0x0000000000017814        0x8 _build/softdevice_handler.o
+ .text.sd_ppi_channel_enable_set
+                0x000000000001781c        0x8 _build/softdevice_handler.o
+ .text.sd_ppi_channel_enable_clr
+                0x0000000000017824        0x8 _build/softdevice_handler.o
+ .text.sd_ppi_channel_assign
+                0x000000000001782c        0x8 _build/softdevice_handler.o
+ .text.sd_ppi_group_task_enable
+                0x0000000000017834        0x8 _build/softdevice_handler.o
+ .text.sd_ppi_group_task_disable
+                0x000000000001783c        0x8 _build/softdevice_handler.o
+ .text.sd_ppi_group_assign
+                0x0000000000017844        0x8 _build/softdevice_handler.o
+ .text.sd_ppi_group_get
+                0x000000000001784c        0x8 _build/softdevice_handler.o
+ .text.sd_radio_notification_cfg_set
+                0x0000000000017854        0x8 _build/softdevice_handler.o
+ .text.sd_ecb_block_encrypt
+                0x000000000001785c        0x8 _build/softdevice_handler.o
+ .text.sd_evt_get
+                0x0000000000017864        0x8 _build/softdevice_handler.o
+ .text.sd_temp_get
+                0x000000000001786c        0x8 _build/softdevice_handler.o
+ .text.sd_flash_write
+                0x0000000000017874        0x8 _build/softdevice_handler.o
+ .text.sd_flash_page_erase
+                0x000000000001787c        0x8 _build/softdevice_handler.o
+ .text.sd_flash_protect
+                0x0000000000017884        0x8 _build/softdevice_handler.o
+ .text.sd_radio_session_open
+                0x000000000001788c        0x8 _build/softdevice_handler.o
+ .text.sd_radio_session_close
+                0x0000000000017894        0x8 _build/softdevice_handler.o
+ .text.sd_radio_request
+                0x000000000001789c        0x8 _build/softdevice_handler.o
+ .text.sd_softdevice_enable
+                0x00000000000178a4        0x8 _build/softdevice_handler.o
+ .text.sd_softdevice_disable
+                0x00000000000178ac        0x8 _build/softdevice_handler.o
+ .text.sd_softdevice_is_enabled
+                0x00000000000178b4        0x8 _build/softdevice_handler.o
+ .text.sd_softdevice_vector_table_base_set
+                0x00000000000178bc        0x8 _build/softdevice_handler.o
+ .text.is_word_aligned
+                0x00000000000178c4       0x1c _build/softdevice_handler.o
+ .text.sd_ble_gap_address_set
+                0x00000000000178e0        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_address_get
+                0x00000000000178e8        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_adv_data_set
+                0x00000000000178f0        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_adv_start
+                0x00000000000178f8        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_adv_stop
+                0x0000000000017900        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_conn_param_update
+                0x0000000000017908        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_disconnect
+                0x0000000000017910        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_tx_power_set
+                0x0000000000017918        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_appearance_set
+                0x0000000000017920        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_appearance_get
+                0x0000000000017928        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_ppcp_set
+                0x0000000000017930        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_ppcp_get
+                0x0000000000017938        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_device_name_set
+                0x0000000000017940        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_device_name_get
+                0x0000000000017948        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_authenticate
+                0x0000000000017950        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_sec_params_reply
+                0x0000000000017958        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_auth_key_reply
+                0x0000000000017960        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_sec_info_reply
+                0x0000000000017968        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_conn_sec_get
+                0x0000000000017970        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_rssi_start
+                0x0000000000017978        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gap_rssi_stop
+                0x0000000000017980        0x8 _build/softdevice_handler.o
+ .text.sd_ble_l2cap_cid_register
+                0x0000000000017988        0x8 _build/softdevice_handler.o
+ .text.sd_ble_l2cap_cid_unregister
+                0x0000000000017990        0x8 _build/softdevice_handler.o
+ .text.sd_ble_l2cap_tx
+                0x0000000000017998        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gattc_primary_services_discover
+                0x00000000000179a0        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gattc_relationships_discover
+                0x00000000000179a8        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gattc_characteristics_discover
+                0x00000000000179b0        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gattc_descriptors_discover
+                0x00000000000179b8        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gattc_char_value_by_uuid_read
+                0x00000000000179c0        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gattc_read
+                0x00000000000179c8        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gattc_char_values_read
+                0x00000000000179d0        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gattc_write
+                0x00000000000179d8        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gattc_hv_confirm
+                0x00000000000179e0        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_service_add
+                0x00000000000179e8        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_include_add
+                0x00000000000179f0        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_characteristic_add
+                0x00000000000179f8        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_descriptor_add
+                0x0000000000017a00        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_value_set
+                0x0000000000017a08        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_value_get
+                0x0000000000017a10        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_hvx
+                0x0000000000017a18        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_service_changed
+                0x0000000000017a20        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_rw_authorize_reply
+                0x0000000000017a28        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_sys_attr_set
+                0x0000000000017a30        0x8 _build/softdevice_handler.o
+ .text.sd_ble_gatts_sys_attr_get
+                0x0000000000017a38        0x8 _build/softdevice_handler.o
+ .text.sd_ble_enable
+                0x0000000000017a40        0x8 _build/softdevice_handler.o
+ .text.sd_ble_evt_get
+                0x0000000000017a48        0x8 _build/softdevice_handler.o
+ .text.sd_ble_tx_buffer_count_get
+                0x0000000000017a50        0x8 _build/softdevice_handler.o
+ .text.sd_ble_uuid_vs_add
+                0x0000000000017a58        0x8 _build/softdevice_handler.o
+ .text.sd_ble_uuid_decode
+                0x0000000000017a60        0x8 _build/softdevice_handler.o
+ .text.sd_ble_uuid_encode
+                0x0000000000017a68        0x8 _build/softdevice_handler.o
+ .text.sd_ble_version_get
+                0x0000000000017a70        0x8 _build/softdevice_handler.o
+ .text.sd_ble_user_mem_reply
+                0x0000000000017a78        0x8 _build/softdevice_handler.o
+ .text.sd_ble_opt_set
+                0x0000000000017a80        0x8 _build/softdevice_handler.o
+ .text.sd_ble_opt_get
+                0x0000000000017a88        0x8 _build/softdevice_handler.o
+ .text.softdevice_assertion_handler
+                0x0000000000017a90       0x28 _build/softdevice_handler.o
+                0x0000000000017a90                softdevice_assertion_handler
+ .text.intern_softdevice_events_execute
+                0x0000000000017ab8      0x114 _build/softdevice_handler.o
+                0x0000000000017ab8                intern_softdevice_events_execute
+ .text.softdevice_handler_init
+                0x0000000000017bcc       0x8c _build/softdevice_handler.o
+                0x0000000000017bcc                softdevice_handler_init
+ .text.softdevice_handler_sd_disable
+                0x0000000000017c58       0x28 _build/softdevice_handler.o
+                0x0000000000017c58                softdevice_handler_sd_disable
+ .text.softdevice_ble_evt_handler_set
+                0x0000000000017c80       0x28 _build/softdevice_handler.o
+                0x0000000000017c80                softdevice_ble_evt_handler_set
+ .text.softdevice_sys_evt_handler_set
+                0x0000000000017ca8       0x28 _build/softdevice_handler.o
+                0x0000000000017ca8                softdevice_sys_evt_handler_set
+ .text.SWI2_IRQHandler
+                0x0000000000017cd0       0x4c _build/softdevice_handler.o
+                0x0000000000017cd0                SWI2_IRQHandler
+ .text          0x0000000000017d1c        0x0 _build/ble_advdata.o
+ .text.sd_ble_gap_address_set
+                0x0000000000017d1c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_address_get
+                0x0000000000017d24        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_adv_data_set
+                0x0000000000017d2c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_adv_start
+                0x0000000000017d34        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_adv_stop
+                0x0000000000017d3c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_conn_param_update
+                0x0000000000017d44        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_disconnect
+                0x0000000000017d4c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_tx_power_set
+                0x0000000000017d54        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_appearance_set
+                0x0000000000017d5c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_appearance_get
+                0x0000000000017d64        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_ppcp_set
+                0x0000000000017d6c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_ppcp_get
+                0x0000000000017d74        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_device_name_set
+                0x0000000000017d7c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_device_name_get
+                0x0000000000017d84        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_authenticate
+                0x0000000000017d8c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_sec_params_reply
+                0x0000000000017d94        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_auth_key_reply
+                0x0000000000017d9c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_sec_info_reply
+                0x0000000000017da4        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_conn_sec_get
+                0x0000000000017dac        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_rssi_start
+                0x0000000000017db4        0x8 _build/ble_advdata.o
+ .text.sd_ble_gap_rssi_stop
+                0x0000000000017dbc        0x8 _build/ble_advdata.o
+ .text.sd_ble_l2cap_cid_register
+                0x0000000000017dc4        0x8 _build/ble_advdata.o
+ .text.sd_ble_l2cap_cid_unregister
+                0x0000000000017dcc        0x8 _build/ble_advdata.o
+ .text.sd_ble_l2cap_tx
+                0x0000000000017dd4        0x8 _build/ble_advdata.o
+ .text.sd_ble_gattc_primary_services_discover
+                0x0000000000017ddc        0x8 _build/ble_advdata.o
+ .text.sd_ble_gattc_relationships_discover
+                0x0000000000017de4        0x8 _build/ble_advdata.o
+ .text.sd_ble_gattc_characteristics_discover
+                0x0000000000017dec        0x8 _build/ble_advdata.o
+ .text.sd_ble_gattc_descriptors_discover
+                0x0000000000017df4        0x8 _build/ble_advdata.o
+ .text.sd_ble_gattc_char_value_by_uuid_read
+                0x0000000000017dfc        0x8 _build/ble_advdata.o
+ .text.sd_ble_gattc_read
+                0x0000000000017e04        0x8 _build/ble_advdata.o
+ .text.sd_ble_gattc_char_values_read
+                0x0000000000017e0c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gattc_write
+                0x0000000000017e14        0x8 _build/ble_advdata.o
+ .text.sd_ble_gattc_hv_confirm
+                0x0000000000017e1c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_service_add
+                0x0000000000017e24        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_include_add
+                0x0000000000017e2c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_characteristic_add
+                0x0000000000017e34        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_descriptor_add
+                0x0000000000017e3c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_value_set
+                0x0000000000017e44        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_value_get
+                0x0000000000017e4c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_hvx
+                0x0000000000017e54        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_service_changed
+                0x0000000000017e5c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_rw_authorize_reply
+                0x0000000000017e64        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_sys_attr_set
+                0x0000000000017e6c        0x8 _build/ble_advdata.o
+ .text.sd_ble_gatts_sys_attr_get
+                0x0000000000017e74        0x8 _build/ble_advdata.o
+ .text.sd_ble_enable
+                0x0000000000017e7c        0x8 _build/ble_advdata.o
+ .text.sd_ble_evt_get
+                0x0000000000017e84        0x8 _build/ble_advdata.o
+ .text.sd_ble_tx_buffer_count_get
+                0x0000000000017e8c        0x8 _build/ble_advdata.o
+ .text.sd_ble_uuid_vs_add
+                0x0000000000017e94        0x8 _build/ble_advdata.o
+ .text.sd_ble_uuid_decode
+                0x0000000000017e9c        0x8 _build/ble_advdata.o
+ .text.sd_ble_uuid_encode
+                0x0000000000017ea4        0x8 _build/ble_advdata.o
+ .text.sd_ble_version_get
+                0x0000000000017eac        0x8 _build/ble_advdata.o
+ .text.sd_ble_user_mem_reply
+                0x0000000000017eb4        0x8 _build/ble_advdata.o
+ .text.sd_ble_opt_set
+                0x0000000000017ebc        0x8 _build/ble_advdata.o
+ .text.sd_ble_opt_get
+                0x0000000000017ec4        0x8 _build/ble_advdata.o
+ .text.uint16_encode
+                0x0000000000017ecc       0x34 _build/ble_advdata.o
+ .text.name_encode
+                0x0000000000017f00      0x134 _build/ble_advdata.o
+ .text.appearance_encode
+                0x0000000000018034       0x88 _build/ble_advdata.o
+ .text.uint8_array_encode
+                0x00000000000180bc       0xa0 _build/ble_advdata.o
+ .text.tx_power_level_encode
+                0x000000000001815c       0x6c _build/ble_advdata.o
+ .text.uuid_list_sized_encode
+                0x00000000000181c8      0x16c _build/ble_advdata.o
+ .text.uuid_list_encode
+                0x0000000000018334       0x6c _build/ble_advdata.o
+ .text.conn_int_check
+                0x00000000000183a0       0x80 _build/ble_advdata.o
+ .text.conn_int_encode
+                0x0000000000018420       0xa8 _build/ble_advdata.o
+ .text.manuf_specific_data_encode
+                0x00000000000184c8       0xcc _build/ble_advdata.o
+ .text.service_data_encode
+                0x0000000000018594      0x100 _build/ble_advdata.o
+ .text.adv_data_encode
+                0x0000000000018694      0x1b8 _build/ble_advdata.o
+ .text.advdata_check
+                0x000000000001884c       0x34 _build/ble_advdata.o
+ .text.srdata_check
+                0x0000000000018880       0x20 _build/ble_advdata.o
+ .text.ble_advdata_set
+                0x00000000000188a0       0xcc _build/ble_advdata.o
+                0x00000000000188a0                ble_advdata_set
+ .text          0x000000000001896c        0x0 _build/ble_debug_assert_handler.o
+ .text.ble_debug_assert_handler
+                0x000000000001896c       0x48 _build/ble_debug_assert_handler.o
+                0x000000000001896c                ble_debug_assert_handler
+ .text          0x00000000000189b4        0x0 _build/ble_error_log.o
+ .text.gcc_current_sp
+                0x00000000000189b4        0xc _build/ble_error_log.o
+ .text.fetch_stack
+                0x00000000000189c0       0x48 _build/ble_error_log.o
+ .text.ble_error_log_write
+                0x0000000000018a08       0x54 _build/ble_error_log.o
+                0x0000000000018a08                ble_error_log_write
+ .text          0x0000000000018a5c        0x0 _build/ble_conn_params.o
+ .text.sd_ble_gap_address_set
+                0x0000000000018a5c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_address_get
+                0x0000000000018a64        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_adv_data_set
+                0x0000000000018a6c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_adv_start
+                0x0000000000018a74        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_adv_stop
+                0x0000000000018a7c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_conn_param_update
+                0x0000000000018a84        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_disconnect
+                0x0000000000018a8c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_tx_power_set
+                0x0000000000018a94        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_appearance_set
+                0x0000000000018a9c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_appearance_get
+                0x0000000000018aa4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_ppcp_set
+                0x0000000000018aac        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_ppcp_get
+                0x0000000000018ab4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_device_name_set
+                0x0000000000018abc        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_device_name_get
+                0x0000000000018ac4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_authenticate
+                0x0000000000018acc        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_sec_params_reply
+                0x0000000000018ad4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_auth_key_reply
+                0x0000000000018adc        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_sec_info_reply
+                0x0000000000018ae4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_conn_sec_get
+                0x0000000000018aec        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_rssi_start
+                0x0000000000018af4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gap_rssi_stop
+                0x0000000000018afc        0x8 _build/ble_conn_params.o
+ .text.sd_ble_l2cap_cid_register
+                0x0000000000018b04        0x8 _build/ble_conn_params.o
+ .text.sd_ble_l2cap_cid_unregister
+                0x0000000000018b0c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_l2cap_tx
+                0x0000000000018b14        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gattc_primary_services_discover
+                0x0000000000018b1c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gattc_relationships_discover
+                0x0000000000018b24        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gattc_characteristics_discover
+                0x0000000000018b2c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gattc_descriptors_discover
+                0x0000000000018b34        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gattc_char_value_by_uuid_read
+                0x0000000000018b3c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gattc_read
+                0x0000000000018b44        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gattc_char_values_read
+                0x0000000000018b4c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gattc_write
+                0x0000000000018b54        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gattc_hv_confirm
+                0x0000000000018b5c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_service_add
+                0x0000000000018b64        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_include_add
+                0x0000000000018b6c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_characteristic_add
+                0x0000000000018b74        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_descriptor_add
+                0x0000000000018b7c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_value_set
+                0x0000000000018b84        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_value_get
+                0x0000000000018b8c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_hvx
+                0x0000000000018b94        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_service_changed
+                0x0000000000018b9c        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_rw_authorize_reply
+                0x0000000000018ba4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_sys_attr_set
+                0x0000000000018bac        0x8 _build/ble_conn_params.o
+ .text.sd_ble_gatts_sys_attr_get
+                0x0000000000018bb4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_enable
+                0x0000000000018bbc        0x8 _build/ble_conn_params.o
+ .text.sd_ble_evt_get
+                0x0000000000018bc4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_tx_buffer_count_get
+                0x0000000000018bcc        0x8 _build/ble_conn_params.o
+ .text.sd_ble_uuid_vs_add
+                0x0000000000018bd4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_uuid_decode
+                0x0000000000018bdc        0x8 _build/ble_conn_params.o
+ .text.sd_ble_uuid_encode
+                0x0000000000018be4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_version_get
+                0x0000000000018bec        0x8 _build/ble_conn_params.o
+ .text.sd_ble_user_mem_reply
+                0x0000000000018bf4        0x8 _build/ble_conn_params.o
+ .text.sd_ble_opt_set
+                0x0000000000018bfc        0x8 _build/ble_conn_params.o
+ .text.sd_ble_opt_get
+                0x0000000000018c04        0x8 _build/ble_conn_params.o
+ .text.uint16_decode
+                0x0000000000018c0c       0x28 _build/ble_conn_params.o
+ .text.ble_srv_is_notification_enabled
+                0x0000000000018c34       0x30 _build/ble_conn_params.o
+ .text.is_conn_params_ok
+                0x0000000000018c64       0x34 _build/ble_conn_params.o
+ .text.update_timeout_handler
+                0x0000000000018c98       0xc4 _build/ble_conn_params.o
+ .text.ble_conn_params_init
+                0x0000000000018d5c       0xac _build/ble_conn_params.o
+                0x0000000000018d5c                ble_conn_params_init
+ .text.ble_conn_params_stop
+                0x0000000000018e08       0x1c _build/ble_conn_params.o
+                0x0000000000018e08                ble_conn_params_stop
+ .text.conn_params_negotiation
+                0x0000000000018e24       0xbc _build/ble_conn_params.o
+ .text.on_connect
+                0x0000000000018ee0       0x4c _build/ble_conn_params.o
+ .text.on_disconnect
+                0x0000000000018f2c       0x54 _build/ble_conn_params.o
+ .text.on_write
+                0x0000000000018f80       0x6c _build/ble_conn_params.o
+ .text.on_conn_params_update
+                0x0000000000018fec       0x2c _build/ble_conn_params.o
+ .text.ble_conn_params_on_ble_evt
+                0x0000000000019018       0x50 _build/ble_conn_params.o
+                0x0000000000019018                ble_conn_params_on_ble_evt
+ .text.ble_conn_params_change_conn_params
+                0x0000000000019068       0xa4 _build/ble_conn_params.o
+                0x0000000000019068                ble_conn_params_change_conn_params
+ .text          0x000000000001910c        0x0 _build/app_timer.o
+ .text.is_word_aligned
+                0x000000000001910c       0x1c _build/app_timer.o
+ .text.NVIC_EnableIRQ
+                0x0000000000019128       0x2c _build/app_timer.o
+ .text.NVIC_DisableIRQ
+                0x0000000000019154       0x30 _build/app_timer.o
+ .text.NVIC_SetPendingIRQ
+                0x0000000000019184       0x34 _build/app_timer.o
+ .text.NVIC_ClearPendingIRQ
+                0x00000000000191b8       0x34 _build/app_timer.o
+ .text.NVIC_SetPriority
+                0x00000000000191ec       0xe0 _build/app_timer.o
+ .text.NVIC_GetPriority
+                0x00000000000192cc       0x78 _build/app_timer.o
+ .text.sd_mutex_new
+                0x0000000000019344        0x8 _build/app_timer.o
+ .text.sd_mutex_acquire
+                0x000000000001934c        0x8 _build/app_timer.o
+ .text.sd_mutex_release
+                0x0000000000019354        0x8 _build/app_timer.o
+ .text.sd_nvic_EnableIRQ
+                0x000000000001935c        0x8 _build/app_timer.o
+ .text.sd_nvic_DisableIRQ
+                0x0000000000019364        0x8 _build/app_timer.o
+ .text.sd_nvic_GetPendingIRQ
+                0x000000000001936c        0x8 _build/app_timer.o
+ .text.sd_nvic_SetPendingIRQ
+                0x0000000000019374        0x8 _build/app_timer.o
+ .text.sd_nvic_ClearPendingIRQ
+                0x000000000001937c        0x8 _build/app_timer.o
+ .text.sd_nvic_SetPriority
+                0x0000000000019384        0x8 _build/app_timer.o
+ .text.sd_nvic_GetPriority
+                0x000000000001938c        0x8 _build/app_timer.o
+ .text.sd_nvic_SystemReset
+                0x0000000000019394        0x8 _build/app_timer.o
+ .text.sd_nvic_critical_region_enter
+                0x000000000001939c        0x8 _build/app_timer.o
+ .text.sd_nvic_critical_region_exit
+                0x00000000000193a4        0x8 _build/app_timer.o
+ .text.sd_rand_application_pool_capacity_get
+                0x00000000000193ac        0x8 _build/app_timer.o
+ .text.sd_rand_application_bytes_available_get
+                0x00000000000193b4        0x8 _build/app_timer.o
+ .text.sd_rand_application_vector_get
+                0x00000000000193bc        0x8 _build/app_timer.o
+ .text.sd_power_reset_reason_get
+                0x00000000000193c4        0x8 _build/app_timer.o
+ .text.sd_power_reset_reason_clr
+                0x00000000000193cc        0x8 _build/app_timer.o
+ .text.sd_power_mode_set
+                0x00000000000193d4        0x8 _build/app_timer.o
+ .text.sd_power_system_off
+                0x00000000000193dc        0x8 _build/app_timer.o
+ .text.sd_power_pof_enable
+                0x00000000000193e4        0x8 _build/app_timer.o
+ .text.sd_power_pof_threshold_set
+                0x00000000000193ec        0x8 _build/app_timer.o
+ .text.sd_power_ramon_set
+                0x00000000000193f4        0x8 _build/app_timer.o
+ .text.sd_power_ramon_clr
+                0x00000000000193fc        0x8 _build/app_timer.o
+ .text.sd_power_ramon_get
+                0x0000000000019404        0x8 _build/app_timer.o
+ .text.sd_power_gpregret_set
+                0x000000000001940c        0x8 _build/app_timer.o
+ .text.sd_power_gpregret_clr
+                0x0000000000019414        0x8 _build/app_timer.o
+ .text.sd_power_gpregret_get
+                0x000000000001941c        0x8 _build/app_timer.o
+ .text.sd_power_dcdc_mode_set
+                0x0000000000019424        0x8 _build/app_timer.o
+ .text.sd_clock_hfclk_request
+                0x000000000001942c        0x8 _build/app_timer.o
+ .text.sd_clock_hfclk_release
+                0x0000000000019434        0x8 _build/app_timer.o
+ .text.sd_clock_hfclk_is_running
+                0x000000000001943c        0x8 _build/app_timer.o
+ .text.sd_app_evt_wait
+                0x0000000000019444        0x8 _build/app_timer.o
+ .text.sd_ppi_channel_enable_get
+                0x000000000001944c        0x8 _build/app_timer.o
+ .text.sd_ppi_channel_enable_set
+                0x0000000000019454        0x8 _build/app_timer.o
+ .text.sd_ppi_channel_enable_clr
+                0x000000000001945c        0x8 _build/app_timer.o
+ .text.sd_ppi_channel_assign
+                0x0000000000019464        0x8 _build/app_timer.o
+ .text.sd_ppi_group_task_enable
+                0x000000000001946c        0x8 _build/app_timer.o
+ .text.sd_ppi_group_task_disable
+                0x0000000000019474        0x8 _build/app_timer.o
+ .text.sd_ppi_group_assign
+                0x000000000001947c        0x8 _build/app_timer.o
+ .text.sd_ppi_group_get
+                0x0000000000019484        0x8 _build/app_timer.o
+ .text.sd_radio_notification_cfg_set
+                0x000000000001948c        0x8 _build/app_timer.o
+ .text.sd_ecb_block_encrypt
+                0x0000000000019494        0x8 _build/app_timer.o
+ .text.sd_evt_get
+                0x000000000001949c        0x8 _build/app_timer.o
+ .text.sd_temp_get
+                0x00000000000194a4        0x8 _build/app_timer.o
+ .text.sd_flash_write
+                0x00000000000194ac        0x8 _build/app_timer.o
+ .text.sd_flash_page_erase
+                0x00000000000194b4        0x8 _build/app_timer.o
+ .text.sd_flash_protect
+                0x00000000000194bc        0x8 _build/app_timer.o
+ .text.sd_radio_session_open
+                0x00000000000194c4        0x8 _build/app_timer.o
+ .text.sd_radio_session_close
+                0x00000000000194cc        0x8 _build/app_timer.o
+ .text.sd_radio_request
+                0x00000000000194d4        0x8 _build/app_timer.o
+ .text.nrf_delay_us
+                0x00000000000194dc       0x34 _build/app_timer.o
+ .text.current_int_priority_get
+                0x0000000000019510       0x3c _build/app_timer.o
+ .text.rtc1_init
+                0x000000000001954c       0x24 _build/app_timer.o
+ .text.rtc1_start
+                0x0000000000019570       0x48 _build/app_timer.o
+ .text.rtc1_stop
+                0x00000000000195b8       0x58 _build/app_timer.o
+ .text.rtc1_counter_get
+                0x0000000000019610       0x18 _build/app_timer.o
+ .text.ticks_diff_get
+                0x0000000000019628       0x1c _build/app_timer.o
+ .text.rtc1_compare0_set
+                0x0000000000019644       0x1c _build/app_timer.o
+ .text.timer_list_insert
+                0x0000000000019660      0x144 _build/app_timer.o
+ .text.timer_list_remove
+                0x00000000000197a4       0xf8 _build/app_timer.o
+ .text.timer_timeouts_check_sched
+                0x000000000001989c       0x10 _build/app_timer.o
+ .text.timer_list_handler_sched
+                0x00000000000198ac       0x10 _build/app_timer.o
+ .text.timeout_handler_exec
+                0x00000000000198bc       0x64 _build/app_timer.o
+ .text.timer_timeouts_check
+                0x0000000000019920       0xcc _build/app_timer.o
+ .text.elapsed_ticks_acquire
+                0x00000000000199ec       0x7c _build/app_timer.o
+ .text.list_deletions_handler
+                0x0000000000019a68      0x124 _build/app_timer.o
+ .text.expired_timers_handler
+                0x0000000000019b8c       0xb0 _build/app_timer.o
+ .text.list_insertions_handler
+                0x0000000000019c3c      0x1ac _build/app_timer.o
+ .text.compare_reg_update
+                0x0000000000019de8       0xc4 _build/app_timer.o
+ .text.timer_list_handler
+                0x0000000000019eac       0x8c _build/app_timer.o
+ .text.user_op_enque
+                0x0000000000019f38       0x18 _build/app_timer.o
+ .text.user_op_alloc
+                0x0000000000019f50       0x58 _build/app_timer.o
+ .text.timer_start_op_schedule
+                0x0000000000019fa8       0x80 _build/app_timer.o
+ .text.timer_stop_op_schedule
+                0x000000000001a028       0x60 _build/app_timer.o
+ .text.timer_stop_all_op_schedule
+                0x000000000001a088       0x60 _build/app_timer.o
+ .text.RTC1_IRQHandler
+                0x000000000001a0e8       0x4c _build/app_timer.o
+                0x000000000001a0e8                RTC1_IRQHandler
+ .text.SWI0_IRQHandler
+                0x000000000001a134        0xc _build/app_timer.o
+                0x000000000001a134                SWI0_IRQHandler
+ .text.app_timer_init
+                0x000000000001a140      0x170 _build/app_timer.o
+                0x000000000001a140                app_timer_init
+ .text.app_timer_create
+                0x000000000001a2b0       0xbc _build/app_timer.o
+                0x000000000001a2b0                app_timer_create
+ .text.user_id_get
+                0x000000000001a36c       0x34 _build/app_timer.o
+ .text.app_timer_start
+                0x000000000001a3a0       0x8c _build/app_timer.o
+                0x000000000001a3a0                app_timer_start
+ .text.app_timer_stop
+                0x000000000001a42c       0x60 _build/app_timer.o
+                0x000000000001a42c                app_timer_stop
+ .text.app_timer_stop_all
+                0x000000000001a48c       0x28 _build/app_timer.o
+                0x000000000001a48c                app_timer_stop_all
+ .text.app_timer_cnt_get
+                0x000000000001a4b4       0x1c _build/app_timer.o
+                0x000000000001a4b4                app_timer_cnt_get
+ .text.app_timer_cnt_diff_compute
+                0x000000000001a4d0       0x28 _build/app_timer.o
+                0x000000000001a4d0                app_timer_cnt_diff_compute
+ .text          0x000000000001a4f8        0x0 _build/app_trace.o
+ .text          0x000000000001a4f8        0x0 _build/app_gpiote.o
+ .text.NVIC_EnableIRQ
+                0x000000000001a4f8       0x2c _build/app_gpiote.o
+ .text.NVIC_ClearPendingIRQ
+                0x000000000001a524       0x34 _build/app_gpiote.o
+ .text.NVIC_SetPriority
+                0x000000000001a558       0xe0 _build/app_gpiote.o
+ .text.is_word_aligned
+                0x000000000001a638       0x1c _build/app_gpiote.o
+ .text.sense_level_toggle
+                0x000000000001a654       0xac _build/app_gpiote.o
+ .text.GPIOTE_IRQHandler
+                0x000000000001a700      0x11c _build/app_gpiote.o
+                0x000000000001a700                GPIOTE_IRQHandler
+ .text.pins_sense_disable
+                0x000000000001a81c       0x8c _build/app_gpiote.o
+ .text.app_gpiote_init
+                0x000000000001a8a8       0xa4 _build/app_gpiote.o
+                0x000000000001a8a8                app_gpiote_init
+ .text.app_gpiote_user_register
+                0x000000000001a94c       0xc8 _build/app_gpiote.o
+                0x000000000001a94c                app_gpiote_user_register
+ .text.app_gpiote_user_enable
+                0x000000000001aa14      0x158 _build/app_gpiote.o
+                0x000000000001aa14                app_gpiote_user_enable
+ .text.app_gpiote_user_disable
+                0x000000000001ab6c       0x78 _build/app_gpiote.o
+                0x000000000001ab6c                app_gpiote_user_disable
+ .text.app_gpiote_pins_state_get
+                0x000000000001abe4       0x64 _build/app_gpiote.o
+                0x000000000001abe4                app_gpiote_pins_state_get
+ .text          0x000000000001ac48        0x0 _build/nrf_pwm.o
+ .text.NVIC_EnableIRQ
+                0x000000000001ac48       0x2c _build/nrf_pwm.o
+ .text.NVIC_SetPendingIRQ
+                0x000000000001ac74       0x34 _build/nrf_pwm.o
+ .text.NVIC_SetPriority
+                0x000000000001aca8       0xe0 _build/nrf_pwm.o
+ .text.nrf_gpiote_task_config
+                0x000000000001ad88       0xb8 _build/nrf_pwm.o
+ .text.nrf_gpiote_unconfig
+                0x000000000001ae40       0x24 _build/nrf_pwm.o
+ .text.nrf_gpio_cfg_output
+                0x000000000001ae64       0x20 _build/nrf_pwm.o
+ .text.nrf_gpio_pin_set
+                0x000000000001ae84       0x20 _build/nrf_pwm.o
+ .text.nrf_gpio_pin_clear
+                0x000000000001aea4       0x20 _build/nrf_pwm.o
+ .text.nrf_gpio_pin_write
+                0x000000000001aec4       0x28 _build/nrf_pwm.o
+ .text.apply_pan73_workaround
+                0x000000000001aeec       0x60 _build/nrf_pwm.o
+ .text.safe_margins_present
+                0x000000000001af4c       0x64 _build/nrf_pwm.o
+ .text.ppi_enable_channel
+                0x000000000001afb0       0x50 _build/nrf_pwm.o
+ .text.nrf_pwm_init
+                0x000000000001b000      0x354 _build/nrf_pwm.o
+                0x000000000001b000                nrf_pwm_init
+ .text.nrf_pwm_set_value
+                0x000000000001b354       0x34 _build/nrf_pwm.o
+                0x000000000001b354                nrf_pwm_set_value
+ .text.nrf_pwm_set_values
+                0x000000000001b388       0x50 _build/nrf_pwm.o
+                0x000000000001b388                nrf_pwm_set_values
+ .text.nrf_pwm_set_max_value
+                0x000000000001b3d8       0x18 _build/nrf_pwm.o
+                0x000000000001b3d8                nrf_pwm_set_max_value
+ .text.nrf_pwm_set_enabled
+                0x000000000001b3f0       0x9c _build/nrf_pwm.o
+                0x000000000001b3f0                nrf_pwm_set_enabled
+ .text.TIMER2_IRQHandler
+                0x000000000001b48c      0x38c _build/nrf_pwm.o
+                0x000000000001b48c                TIMER2_IRQHandler
+ .text          0x000000000001b818        0x0 _build/system_nrf51.o
+ .text.SystemCoreClockUpdate
+                0x000000000001b818       0x18 _build/system_nrf51.o
+                0x000000000001b818                SystemCoreClockUpdate
+ .text.SystemInit
+                0x000000000001b830       0x44 _build/system_nrf51.o
+                0x000000000001b830                SystemInit
+ .text.is_manual_peripheral_setup_needed
+                0x000000000001b874       0x80 _build/system_nrf51.o
+ .text.is_disabled_in_debug_needed
+                0x000000000001b8f4       0x4c _build/system_nrf51.o
+ .text          0x000000000001b940       0x54 _build/gcc_startup_nrf51.o
+                0x000000000001b940                Reset_Handler
+                0x000000000001b988                NMI_Handler
+                0x000000000001b98a                HardFault_Handler
+                0x000000000001b98c                SVC_Handler
+                0x000000000001b98e                PendSV_Handler
+                0x000000000001b990                SysTick_Handler
+                0x000000000001b992                TEMP_IRQHandler
+                0x000000000001b992                QDEC_IRQHandler
+                0x000000000001b992                UART0_IRQHandler
+                0x000000000001b992                SWI5_IRQHandler
+                0x000000000001b992                TIMER0_IRQHandler
+                0x000000000001b992                TIMER1_IRQHandler
+                0x000000000001b992                ECB_IRQHandler
+                0x000000000001b992                Default_Handler
+                0x000000000001b992                SWI3_IRQHandler
+                0x000000000001b992                CCM_AAR_IRQHandler
+                0x000000000001b992                WDT_IRQHandler
+                0x000000000001b992                RNG_IRQHandler
+                0x000000000001b992                SPI1_TWI1_IRQHandler
+                0x000000000001b992                SPI0_TWI0_IRQHandler
+                0x000000000001b992                SWI1_IRQHandler
+                0x000000000001b992                RTC0_IRQHandler
+                0x000000000001b992                POWER_CLOCK_IRQHandler
+                0x000000000001b992                RADIO_IRQHandler
+                0x000000000001b992                LPCOMP_IRQHandler
+                0x000000000001b992                SWI4_IRQHandler
+ .text          0x000000000001b994       0x74 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+                0x000000000001b994                __aeabi_cfrcmple
+                0x000000000001b99c                __aeabi_cfcmple
+                0x000000000001b99c                __aeabi_cfcmpeq
+                0x000000000001b9ac                __aeabi_fcmpeq
+                0x000000000001b9b8                __aeabi_fcmplt
+                0x000000000001b9cc                __aeabi_fcmple
+                0x000000000001b9e0                __aeabi_fcmpgt
+                0x000000000001b9f4                __aeabi_fcmpge
+ .text          0x000000000001ba08       0x50 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(eqsf2.o)
+                0x000000000001ba08                __nesf2
+                0x000000000001ba08                __eqsf2
+ .text          0x000000000001ba58       0x90 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(gesf2.o)
+                0x000000000001ba58                __gtsf2
+                0x000000000001ba58                __gesf2
+ .text          0x000000000001bae8       0x90 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(lesf2.o)
+                0x000000000001bae8                __lesf2
+                0x000000000001bae8                __ltsf2
+ .text          0x000000000001bb78       0xb8 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatsisf.o)
+                0x000000000001bb78                __aeabi_i2f
+ .text          0x000000000001bc30       0xa0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatunsisf.o)
+                0x000000000001bc30                __aeabi_ui2f
+ .text          0x000000000001bcd0      0x648 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(adddf3.o)
+                0x000000000001bcd0                __aeabi_dadd
+ .text          0x000000000001c318      0x650 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(divdf3.o)
+                0x000000000001c318                __aeabi_ddiv
+ .text          0x000000000001c968       0xa4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(extendsfdf2.o)
+                0x000000000001c968                __aeabi_f2d
+ .text          0x000000000001ca0c      0x118 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(truncdfsf2.o)
+                0x000000000001ca0c                __aeabi_d2f
+ .text          0x000000000001cb24       0x9c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+                0x000000000001cb24                __udivsi3
+                0x000000000001cb24                __aeabi_uidiv
+                0x000000000001cbac                __aeabi_uidivmod
+ .text          0x000000000001cbc0        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x000000000001cbc0                __aeabi_ldiv0
+                0x000000000001cbc0                __aeabi_idiv0
+ .text          0x000000000001cbc4       0x3c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_clzsi2.o)
+                0x000000000001cbc4                __clzsi2
+ .text          0x000000000001cc00        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atoi.o)
+ .text.atoi     0x000000000001cc00        0xc /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atoi.o)
+                0x000000000001cc00                atoi
+ .text._atoi_r  0x000000000001cc0c        0xc /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atoi.o)
+                0x000000000001cc0c                _atoi_r
+ .text          0x000000000001cc18        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .text.exit     0x000000000001cc18       0x20 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+                0x000000000001cc18                exit
+ .text          0x000000000001cc38        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .text          0x000000000001cc38        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x000000000001cc38       0x48 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+                0x000000000001cc38                __libc_init_array
+ .text          0x000000000001cc80        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x000000000001cc80       0x84 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+                0x000000000001cc80                memcpy
+ .text          0x000000000001cd04        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .text.memset   0x000000000001cd04       0xbc /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+                0x000000000001cd04                memset
+ .text          0x000000000001cdc0        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strncpy.o)
+ .text.strncpy  0x000000000001cdc0       0x74 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strncpy.o)
+                0x000000000001cdc0                strncpy
+ .text          0x000000000001ce34        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strtol.o)
+ .text._strtol_r
+                0x000000000001ce34      0x164 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strtol.o)
+                0x000000000001ce34                _strtol_r
+ .text.strtol   0x000000000001cf98       0x1c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strtol.o)
+                0x000000000001cf98                strtol
+ .text          0x000000000001cfb4        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x000000000001cfb4       0x18 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x000000000001cfcc      0x118 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+                0x000000000001cfcc                __call_exitprocs
+ .text          0x000000000001d0e4        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .text.atexit   0x000000000001d0e4       0x10 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+                0x000000000001d0e4                atexit
+ .text          0x000000000001d0f4        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-ctype_.o)
+ .text          0x000000000001d0f4        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x000000000001d0f4       0x30 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+                0x000000000001d0f4                __libc_fini_array
+ .text          0x000000000001d124        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x000000000001d124       0xc0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+                0x000000000001d124                __register_exitproc
+ .text          0x000000000001d1e4        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .text          0x000000000001d1e4        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .text          0x000000000001d1e4        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ .text._exit    0x000000000001d1e4        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x000000000001d1e4                _exit
+ *(.init)
+ .init          0x000000000001d1e8        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+                0x000000000001d1e8                _init
+ .init          0x000000000001d1ec        0x8 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x000000000001d1f4        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+                0x000000000001d1f4                _fini
+ .fini          0x000000000001d1f8        0x8 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x000000000001d200       0x74 _build/main.o
+                0x000000000001d200                led_table
+                0x000000000001d234                motor_table
+ .rodata        0x000000000001d274       0x10 _build/ble_nus.o
+ .rodata        0x000000000001d284       0x38 _build/softdevice_handler.o
+ .rodata        0x000000000001d2bc       0x30 _build/app_timer.o
+ .rodata        0x000000000001d2ec       0x24 _build/nrf_pwm.o
+ .rodata        0x000000000001d310       0x40 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(divdf3.o)
+ .rodata.str1.4
+                0x000000000001d350        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x000000000001d354        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                0x000000000001d354                _global_impure_ptr
+ .rodata._ctype_
+                0x000000000001d358      0x104 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-ctype_.o)
+                0x000000000001d358                _ctype_
+ *(.eh_frame*)
+ .eh_frame      0x000000000001d45c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .eh_frame      0x000000000001d45c        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+
+.glue_7         0x000000000001d460        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x000000000001d460        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x000000000001d460        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x000000000001d460        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x000000000001d460        0x0
+ .iplt          0x0000000000000000        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.ARM.extab      0x000000000001d460        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x000000000001d460        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x000000000001d460        0x0 _build/gcc_startup_nrf51.o
+                0x000000000001d460                __exidx_start = .
+
+.ARM.exidx      0x000000000001d460        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000000000001d460        0x8 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x000000000001d468        0x0 _build/gcc_startup_nrf51.o
+                                          0x8 (size before relaxing)
+                0x000000000001d468                __exidx_end = .
+                0x000000000001d468                __etext = .
+
+.rel.dyn        0x000000000001d468        0x0
+ .rel.iplt      0x0000000000000000        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.data           0x0000000020002000      0x450 load address 0x000000000001d468
+                0x0000000020002000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x0000000020002000        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .data          0x0000000020002000        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000020002000                __dso_handle
+ .data          0x0000000020002004        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x0000000020002004        0x2 _build/main.o
+ .data          0x0000000020002006        0x0 _build/ble_nus.o
+ .data          0x0000000020002006        0x0 _build/softdevice_handler.o
+ .data          0x0000000020002006        0x0 _build/ble_advdata.o
+ .data          0x0000000020002006        0x0 _build/ble_debug_assert_handler.o
+ .data          0x0000000020002006        0x0 _build/ble_error_log.o
+ .data          0x0000000020002006        0x0 _build/ble_conn_params.o
+ .data          0x0000000020002006        0x0 _build/app_timer.o
+ .data          0x0000000020002006        0x0 _build/app_trace.o
+ .data          0x0000000020002006        0x0 _build/app_gpiote.o
+ *fill*         0x0000000020002006        0x2 
+ .data          0x0000000020002008        0x4 _build/nrf_pwm.o
+ .data          0x000000002000200c        0x4 _build/system_nrf51.o
+                0x000000002000200c                SystemCoreClock
+ .data          0x0000000020002010        0x0 _build/gcc_startup_nrf51.o
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(eqsf2.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(gesf2.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(lesf2.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatsisf.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatunsisf.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(adddf3.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(divdf3.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(extendsfdf2.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(truncdfsf2.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_clzsi2.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atoi.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .data          0x0000000020002010        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000020002010      0x428 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000020002438        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                0x0000000020002438                _impure_ptr
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strncpy.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strtol.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .data          0x000000002000243c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-ctype_.o)
+ .data.__ctype_ptr__
+                0x000000002000243c        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-ctype_.o)
+                0x000000002000243c                __ctype_ptr__
+ .data          0x0000000020002440        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .data          0x0000000020002440        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .data          0x0000000020002440        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .data          0x0000000020002440        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .data          0x0000000020002440        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+                0x0000000020002440                . = ALIGN (0x4)
+                0x0000000020002440                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x0000000020002440                PROVIDE (__preinit_array_end, .)
+                0x0000000020002440                . = ALIGN (0x4)
+                0x0000000020002440                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x0000000020002440        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x0000000020002444        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x0000000020002448                PROVIDE (__init_array_end, .)
+                0x0000000020002448                . = ALIGN (0x4)
+                0x0000000020002448                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020002448        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+                0x000000002000244c                PROVIDE (__fini_array_end, .)
+ *(.jcr)
+ .jcr           0x000000002000244c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .jcr           0x000000002000244c        0x4 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+                0x0000000020002450                . = ALIGN (0x4)
+                0x0000000020002450                __data_end__ = .
+
+.igot.plt       0x0000000020002450        0x0 load address 0x000000000001d8b8
+ .igot.plt      0x0000000000000000        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+
+.bss            0x0000000020002450      0x6f8 load address 0x000000000001d8b8
+                0x0000000020002450                . = ALIGN (0x4)
+                0x0000000020002450                __bss_start__ = .
+ *(.bss*)
+ .bss           0x0000000020002450        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .bss           0x0000000020002450       0x1c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .bss           0x000000002000246c        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x000000002000246c      0x314 _build/main.o
+ .bss           0x0000000020002780        0x0 _build/ble_nus.o
+ .bss           0x0000000020002780       0x14 _build/softdevice_handler.o
+ .bss           0x0000000020002794        0x0 _build/ble_advdata.o
+ .bss           0x0000000020002794       0x88 _build/ble_debug_assert_handler.o
+ .bss           0x000000002000281c      0x188 _build/ble_error_log.o
+ .bss           0x00000000200029a4       0x38 _build/ble_conn_params.o
+ .bss           0x00000000200029dc       0x2c _build/app_timer.o
+ .bss           0x0000000020002a08        0x0 _build/app_trace.o
+ .bss           0x0000000020002a08        0xc _build/app_gpiote.o
+ .bss           0x0000000020002a14       0x50 _build/nrf_pwm.o
+ .bss           0x0000000020002a64        0x0 _build/system_nrf51.o
+ .bss           0x0000000020002a64        0x0 _build/gcc_startup_nrf51.o
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(eqsf2.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(gesf2.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(lesf2.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatsisf.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatunsisf.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(adddf3.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(divdf3.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(extendsfdf2.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(truncdfsf2.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_clzsi2.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atoi.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strncpy.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strtol.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-ctype_.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .bss           0x0000000020002a64        0x0 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+ *(COMMON)
+ COMMON         0x0000000020002a64       0x11 _build/main.o
+                0x0000000020002a64                val_rcvd_ble
+                0x0000000020002a68                counter_illuminate
+                0x0000000020002a69                is_val_rcvd_ble
+                0x0000000020002a6a                counter_motor
+                0x0000000020002a6c                val_total_stored
+                0x0000000020002a70                is_sensor_reacting
+                0x0000000020002a71                val_target_illuminate_pos
+                0x0000000020002a72                val_adc_result
+                0x0000000020002a73                is_motor_running
+                0x0000000020002a74                is_led_illuminating
+ *fill*         0x0000000020002a75        0x3 
+ COMMON         0x0000000020002a78       0xd0 _build/app_trace.o
+                0x0000000020002a78                __stdin
+                0x0000000020002ae0                __stdout
+                0x0000000020002b48                . = ALIGN (0x4)
+                0x0000000020002b48                __bss_end__ = .
+
+.heap           0x0000000020002b48        0x0
+                0x0000000020002b48                __end__ = .
+                0x0000000020002b48                end = __end__
+ *(.heap*)
+ .heap          0x0000000020002b48        0x0 _build/gcc_startup_nrf51.o
+                0x0000000020002b48                __HeapLimit = .
+
+.stack_dummy    0x0000000020002b48      0x800
+ *(.stack*)
+ .stack         0x0000000020002b48      0x800 _build/gcc_startup_nrf51.o
+                0x0000000020004000                __StackTop = (ORIGIN (RAM) + 0x2000)
+                0x0000000020003800                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020004000                PROVIDE (__stack, __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+OUTPUT(_build/dropletter_s110_xxaa.out elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x28
+ .ARM.attributes
+                0x0000000000000000       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x1b /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x0000000000000065       0x31 _build/main.o
+ .ARM.attributes
+                0x0000000000000096       0x31 _build/ble_nus.o
+ .ARM.attributes
+                0x00000000000000c7       0x31 _build/softdevice_handler.o
+ .ARM.attributes
+                0x00000000000000f8       0x31 _build/ble_advdata.o
+ .ARM.attributes
+                0x0000000000000129       0x31 _build/ble_debug_assert_handler.o
+ .ARM.attributes
+                0x000000000000015a       0x31 _build/ble_error_log.o
+ .ARM.attributes
+                0x000000000000018b       0x31 _build/ble_conn_params.o
+ .ARM.attributes
+                0x00000000000001bc       0x31 _build/app_timer.o
+ .ARM.attributes
+                0x00000000000001ed       0x31 _build/app_trace.o
+ .ARM.attributes
+                0x000000000000021e       0x31 _build/app_gpiote.o
+ .ARM.attributes
+                0x000000000000024f       0x31 _build/nrf_pwm.o
+ .ARM.attributes
+                0x0000000000000280       0x31 _build/system_nrf51.o
+ .ARM.attributes
+                0x00000000000002b1       0x1b _build/gcc_startup_nrf51.o
+ .ARM.attributes
+                0x00000000000002cc       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000000002ea       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(eqsf2.o)
+ .ARM.attributes
+                0x0000000000000316       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(gesf2.o)
+ .ARM.attributes
+                0x0000000000000342       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(lesf2.o)
+ .ARM.attributes
+                0x000000000000036e       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatsisf.o)
+ .ARM.attributes
+                0x000000000000039a       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatunsisf.o)
+ .ARM.attributes
+                0x00000000000003c6       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(adddf3.o)
+ .ARM.attributes
+                0x00000000000003f2       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(divdf3.o)
+ .ARM.attributes
+                0x000000000000041e       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(extendsfdf2.o)
+ .ARM.attributes
+                0x000000000000044a       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(truncdfsf2.o)
+ .ARM.attributes
+                0x0000000000000476       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000494       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000000000004b2       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_clzsi2.o)
+ .ARM.attributes
+                0x00000000000004d0       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atoi.o)
+ .ARM.attributes
+                0x00000000000004fc       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000528       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000554       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000580       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000005ac       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000005d8       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x0000000000000604       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strtol.o)
+ .ARM.attributes
+                0x0000000000000630       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000000000000065c       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000688       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000000000006b4       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000006e0       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000000000000070c       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtend.o
+ .ARM.attributes
+                0x0000000000000738       0x1e /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/crtn.o
+ .ARM.attributes
+                0x0000000000000756       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
+
+.comment        0x0000000000000000       0x70
+ .comment       0x0000000000000000       0x70 _build/main.o
+                                         0x71 (size before relaxing)
+ .comment       0x0000000000000000       0x71 _build/ble_nus.o
+ .comment       0x0000000000000000       0x71 _build/softdevice_handler.o
+ .comment       0x0000000000000000       0x71 _build/ble_advdata.o
+ .comment       0x0000000000000000       0x71 _build/ble_debug_assert_handler.o
+ .comment       0x0000000000000000       0x71 _build/ble_error_log.o
+ .comment       0x0000000000000000       0x71 _build/ble_conn_params.o
+ .comment       0x0000000000000000       0x71 _build/app_timer.o
+ .comment       0x0000000000000000       0x71 _build/app_trace.o
+ .comment       0x0000000000000000       0x71 _build/app_gpiote.o
+ .comment       0x0000000000000000       0x71 _build/nrf_pwm.o
+ .comment       0x0000000000000000       0x71 _build/system_nrf51.o
+
+.debug_info     0x0000000000000000    0x13284
+ .debug_info    0x0000000000000000     0x42d6 _build/main.o
+ .debug_info    0x00000000000042d6     0x2955 _build/ble_nus.o
+ .debug_info    0x0000000000006c2b     0x35e2 _build/softdevice_handler.o
+ .debug_info    0x000000000000a20d     0x20a7 _build/ble_advdata.o
+ .debug_info    0x000000000000c2b4      0x154 _build/ble_debug_assert_handler.o
+ .debug_info    0x000000000000c408      0x1fb _build/ble_error_log.o
+ .debug_info    0x000000000000c603     0x2a3b _build/ble_conn_params.o
+ .debug_info    0x000000000000f03e     0x1f22 _build/app_timer.o
+ .debug_info    0x0000000000010f60      0x892 _build/app_trace.o
+ .debug_info    0x00000000000117f2      0x9a8 _build/app_gpiote.o
+ .debug_info    0x000000000001219a      0xe76 _build/nrf_pwm.o
+ .debug_info    0x0000000000013010      0x1a6 _build/system_nrf51.o
+ .debug_info    0x00000000000131b6       0xce _build/gcc_startup_nrf51.o
+
+.debug_abbrev   0x0000000000000000     0x1b8c
+ .debug_abbrev  0x0000000000000000      0x3b6 _build/main.o
+ .debug_abbrev  0x00000000000003b6      0x2e1 _build/ble_nus.o
+ .debug_abbrev  0x0000000000000697      0x311 _build/softdevice_handler.o
+ .debug_abbrev  0x00000000000009a8      0x288 _build/ble_advdata.o
+ .debug_abbrev  0x0000000000000c30       0xb9 _build/ble_debug_assert_handler.o
+ .debug_abbrev  0x0000000000000ce9      0x104 _build/ble_error_log.o
+ .debug_abbrev  0x0000000000000ded      0x33d _build/ble_conn_params.o
+ .debug_abbrev  0x000000000000112a      0x367 _build/app_timer.o
+ .debug_abbrev  0x0000000000001491      0x174 _build/app_trace.o
+ .debug_abbrev  0x0000000000001605      0x24f _build/app_gpiote.o
+ .debug_abbrev  0x0000000000001854      0x230 _build/nrf_pwm.o
+ .debug_abbrev  0x0000000000001a84       0xf4 _build/system_nrf51.o
+ .debug_abbrev  0x0000000000001b78       0x14 _build/gcc_startup_nrf51.o
+
+.debug_aranges  0x0000000000000000     0x1358
+ .debug_aranges
+                0x0000000000000000      0x430 _build/main.o
+ .debug_aranges
+                0x0000000000000430      0x218 _build/ble_nus.o
+ .debug_aranges
+                0x0000000000000648      0x3c0 _build/softdevice_handler.o
+ .debug_aranges
+                0x0000000000000a08      0x240 _build/ble_advdata.o
+ .debug_aranges
+                0x0000000000000c48       0x20 _build/ble_debug_assert_handler.o
+ .debug_aranges
+                0x0000000000000c68       0x30 _build/ble_error_log.o
+ .debug_aranges
+                0x0000000000000c98      0x230 _build/ble_conn_params.o
+ .debug_aranges
+                0x0000000000000ec8      0x300 _build/app_timer.o
+ .debug_aranges
+                0x00000000000011c8       0x18 _build/app_trace.o
+ .debug_aranges
+                0x00000000000011e0       0x78 _build/app_gpiote.o
+ .debug_aranges
+                0x0000000000001258       0xa8 _build/nrf_pwm.o
+ .debug_aranges
+                0x0000000000001300       0x38 _build/system_nrf51.o
+ .debug_aranges
+                0x0000000000001338       0x20 _build/gcc_startup_nrf51.o
+
+.debug_ranges   0x0000000000000000     0x1288
+ .debug_ranges  0x0000000000000000      0x420 _build/main.o
+ .debug_ranges  0x0000000000000420      0x208 _build/ble_nus.o
+ .debug_ranges  0x0000000000000628      0x3b0 _build/softdevice_handler.o
+ .debug_ranges  0x00000000000009d8      0x230 _build/ble_advdata.o
+ .debug_ranges  0x0000000000000c08       0x10 _build/ble_debug_assert_handler.o
+ .debug_ranges  0x0000000000000c18       0x20 _build/ble_error_log.o
+ .debug_ranges  0x0000000000000c38      0x238 _build/ble_conn_params.o
+ .debug_ranges  0x0000000000000e70      0x2f0 _build/app_timer.o
+ .debug_ranges  0x0000000000001160       0x68 _build/app_gpiote.o
+ .debug_ranges  0x00000000000011c8       0x98 _build/nrf_pwm.o
+ .debug_ranges  0x0000000000001260       0x28 _build/system_nrf51.o
+
+.debug_macro    0x0000000000000000     0xcd30
+ .debug_macro   0x0000000000000000      0x430 _build/main.o
+ .debug_macro   0x0000000000000430      0x832 _build/main.o
+ .debug_macro   0x0000000000000c62       0x52 _build/main.o
+ .debug_macro   0x0000000000000cb4       0x16 _build/main.o
+ .debug_macro   0x0000000000000cca       0x35 _build/main.o
+ .debug_macro   0x0000000000000cff       0xa3 _build/main.o
+ .debug_macro   0x0000000000000da2      0x20e _build/main.o
+ .debug_macro   0x0000000000000fb0       0x22 _build/main.o
+ .debug_macro   0x0000000000000fd2       0x16 _build/main.o
+ .debug_macro   0x0000000000000fe8      0x10e _build/main.o
+ .debug_macro   0x00000000000010f6       0x7f _build/main.o
+ .debug_macro   0x0000000000001175       0x3a _build/main.o
+ .debug_macro   0x00000000000011af       0x52 _build/main.o
+ .debug_macro   0x0000000000001201       0x16 _build/main.o
+ .debug_macro   0x0000000000001217       0x43 _build/main.o
+ .debug_macro   0x000000000000125a      0x180 _build/main.o
+ .debug_macro   0x00000000000013da       0x16 _build/main.o
+ .debug_macro   0x00000000000013f0       0x29 _build/main.o
+ .debug_macro   0x0000000000001419      0x2a6 _build/main.o
+ .debug_macro   0x00000000000016bf       0x10 _build/main.o
+ .debug_macro   0x00000000000016cf       0x35 _build/main.o
+ .debug_macro   0x0000000000001704       0x1f _build/main.o
+ .debug_macro   0x0000000000001723       0xf4 _build/main.o
+ .debug_macro   0x0000000000001817       0x22 _build/main.o
+ .debug_macro   0x0000000000001839       0x3a _build/main.o
+ .debug_macro   0x0000000000001873       0x1f _build/main.o
+ .debug_macro   0x0000000000001892      0x242 _build/main.o
+ .debug_macro   0x0000000000001ad4      0x1d2 _build/main.o
+ .debug_macro   0x0000000000001ca6     0x746b _build/main.o
+ .debug_macro   0x0000000000009111      0x976 _build/main.o
+ .debug_macro   0x0000000000009a87       0x10 _build/main.o
+ .debug_macro   0x0000000000009a97       0xa6 _build/main.o
+ .debug_macro   0x0000000000009b3d       0xd6 _build/main.o
+ .debug_macro   0x0000000000009c13      0x1e1 _build/main.o
+ .debug_macro   0x0000000000009df4       0x10 _build/main.o
+ .debug_macro   0x0000000000009e04      0x308 _build/main.o
+ .debug_macro   0x000000000000a10c       0x8e _build/main.o
+ .debug_macro   0x000000000000a19a       0x34 _build/main.o
+ .debug_macro   0x000000000000a1ce       0x22 _build/main.o
+ .debug_macro   0x000000000000a1f0      0x1d5 _build/main.o
+ .debug_macro   0x000000000000a3c5       0x16 _build/main.o
+ .debug_macro   0x000000000000a3db       0xb8 _build/main.o
+ .debug_macro   0x000000000000a493       0x1c _build/main.o
+ .debug_macro   0x000000000000a4af       0x22 _build/main.o
+ .debug_macro   0x000000000000a4d1      0x245 _build/main.o
+ .debug_macro   0x000000000000a716       0x46 _build/main.o
+ .debug_macro   0x000000000000a75c       0x64 _build/main.o
+ .debug_macro   0x000000000000a7c0       0x1c _build/main.o
+ .debug_macro   0x000000000000a7dc       0x16 _build/main.o
+ .debug_macro   0x000000000000a7f2       0x16 _build/main.o
+ .debug_macro   0x000000000000a808       0x16 _build/main.o
+ .debug_macro   0x000000000000a81e       0x10 _build/main.o
+ .debug_macro   0x000000000000a82e       0x16 _build/main.o
+ .debug_macro   0x000000000000a844       0x1c _build/main.o
+ .debug_macro   0x000000000000a860       0x10 _build/main.o
+ .debug_macro   0x000000000000a870       0x10 _build/main.o
+ .debug_macro   0x000000000000a880       0x22 _build/main.o
+ .debug_macro   0x000000000000a8a2       0xbd _build/main.o
+ .debug_macro   0x000000000000a95f       0x16 _build/main.o
+ .debug_macro   0x000000000000a975      0x16c _build/main.o
+ .debug_macro   0x000000000000aae1       0x41 _build/main.o
+ .debug_macro   0x000000000000ab22       0x2e _build/main.o
+ .debug_macro   0x000000000000ab50       0x22 _build/main.o
+ .debug_macro   0x000000000000ab72       0x16 _build/main.o
+ .debug_macro   0x000000000000ab88       0x28 _build/main.o
+ .debug_macro   0x000000000000abb0       0x3a _build/main.o
+ .debug_macro   0x000000000000abea      0x1be _build/ble_nus.o
+ .debug_macro   0x000000000000ada8      0x1db _build/ble_nus.o
+ .debug_macro   0x000000000000af83       0x1c _build/ble_nus.o
+ .debug_macro   0x000000000000af9f       0x28 _build/ble_nus.o
+ .debug_macro   0x000000000000afc7      0x166 _build/ble_nus.o
+ .debug_macro   0x000000000000b12d      0x259 _build/softdevice_handler.o
+ .debug_macro   0x000000000000b386      0x214 _build/softdevice_handler.o
+ .debug_macro   0x000000000000b59a       0x40 _build/softdevice_handler.o
+ .debug_macro   0x000000000000b5da      0x30e _build/softdevice_handler.o
+ .debug_macro   0x000000000000b8e8       0x3a _build/softdevice_handler.o
+ .debug_macro   0x000000000000b922       0x10 _build/softdevice_handler.o
+ .debug_macro   0x000000000000b932       0x10 _build/softdevice_handler.o
+ .debug_macro   0x000000000000b942      0x1c3 _build/ble_advdata.o
+ .debug_macro   0x000000000000bb05      0x15d _build/ble_debug_assert_handler.o
+ .debug_macro   0x000000000000bc62      0x1a7 _build/ble_error_log.o
+ .debug_macro   0x000000000000be09       0x46 _build/ble_error_log.o
+ .debug_macro   0x000000000000be4f       0x22 _build/ble_error_log.o
+ .debug_macro   0x000000000000be71      0x234 _build/ble_conn_params.o
+ .debug_macro   0x000000000000c0a5       0x1c _build/ble_conn_params.o
+ .debug_macro   0x000000000000c0c1      0x277 _build/app_timer.o
+ .debug_macro   0x000000000000c338       0x16 _build/app_timer.o
+ .debug_macro   0x000000000000c34e       0x97 _build/app_timer.o
+ .debug_macro   0x000000000000c3e5       0xef _build/app_timer.o
+ .debug_macro   0x000000000000c4d4      0x247 _build/app_trace.o
+ .debug_macro   0x000000000000c71b       0x52 _build/app_trace.o
+ .debug_macro   0x000000000000c76d       0x22 _build/app_trace.o
+ .debug_macro   0x000000000000c78f       0x18 _build/app_trace.o
+ .debug_macro   0x000000000000c7a7       0x28 _build/app_trace.o
+ .debug_macro   0x000000000000c7cf       0x1c _build/app_trace.o
+ .debug_macro   0x000000000000c7eb      0x11e _build/app_trace.o
+ .debug_macro   0x000000000000c909       0x1c _build/app_trace.o
+ .debug_macro   0x000000000000c925      0x1ee _build/app_gpiote.o
+ .debug_macro   0x000000000000cb13      0x109 _build/nrf_pwm.o
+ .debug_macro   0x000000000000cc1c       0x34 _build/nrf_pwm.o
+ .debug_macro   0x000000000000cc50       0xe0 _build/system_nrf51.o
+
+.debug_line     0x0000000000000000     0x69a7
+ .debug_line    0x0000000000000000     0x124c _build/main.o
+ .debug_line    0x000000000000124c      0x963 _build/ble_nus.o
+ .debug_line    0x0000000000001baf      0xda5 _build/softdevice_handler.o
+ .debug_line    0x0000000000002954      0xaa5 _build/ble_advdata.o
+ .debug_line    0x00000000000033f9      0x40b _build/ble_debug_assert_handler.o
+ .debug_line    0x0000000000003804      0x4bb _build/ble_error_log.o
+ .debug_line    0x0000000000003cbf      0x9ec _build/ble_conn_params.o
+ .debug_line    0x00000000000046ab      0xd9e _build/app_timer.o
+ .debug_line    0x0000000000005449      0x52f _build/app_trace.o
+ .debug_line    0x0000000000005978      0x618 _build/app_gpiote.o
+ .debug_line    0x0000000000005f90      0x619 _build/nrf_pwm.o
+ .debug_line    0x00000000000065a9      0x366 _build/system_nrf51.o
+ .debug_line    0x000000000000690f       0x98 _build/gcc_startup_nrf51.o
+
+.debug_str      0x0000000000000000    0x3e27a
+ .debug_str     0x0000000000000000    0x3b98e _build/main.o
+                                      0x3be5e (size before relaxing)
+ .debug_str     0x000000000003b98e       0xee _build/ble_nus.o
+                                       0xc097 (size before relaxing)
+ .debug_str     0x000000000003ba7c      0x264 _build/softdevice_handler.o
+                                      0x34600 (size before relaxing)
+ .debug_str     0x000000000003bce0      0x28b _build/ble_advdata.o
+                                       0xb907 (size before relaxing)
+ .debug_str     0x000000000003bf6b       0x98 _build/ble_debug_assert_handler.o
+                                       0x6fc3 (size before relaxing)
+ .debug_str     0x000000000003c003      0x3e2 _build/ble_error_log.o
+                                      0x2e7ad (size before relaxing)
+ .debug_str     0x000000000003c3e5      0x17c _build/ble_conn_params.o
+                                       0xc9c8 (size before relaxing)
+ .debug_str     0x000000000003c561      0x93b _build/app_timer.o
+                                      0x3385f (size before relaxing)
+ .debug_str     0x000000000003ce9c      0xc2b _build/app_trace.o
+                                      0x331d3 (size before relaxing)
+ .debug_str     0x000000000003dac7      0x270 _build/app_gpiote.o
+                                      0x31e7c (size before relaxing)
+ .debug_str     0x000000000003dd37      0x43b _build/nrf_pwm.o
+                                      0x2f531 (size before relaxing)
+ .debug_str     0x000000000003e172      0x108 _build/system_nrf51.o
+                                      0x2ecb2 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x3248
+ .debug_frame   0x0000000000000000      0x998 _build/main.o
+ .debug_frame   0x0000000000000998      0x4b0 _build/ble_nus.o
+ .debug_frame   0x0000000000000e48      0x7e0 _build/softdevice_handler.o
+ .debug_frame   0x0000000000001628      0x550 _build/ble_advdata.o
+ .debug_frame   0x0000000000001b78       0x30 _build/ble_debug_assert_handler.o
+ .debug_frame   0x0000000000001ba8       0x6c _build/ble_error_log.o
+ .debug_frame   0x0000000000001c14      0x50c _build/ble_conn_params.o
+ .debug_frame   0x0000000000002120      0x864 _build/app_timer.o
+ .debug_frame   0x0000000000002984      0x194 _build/app_gpiote.o
+ .debug_frame   0x0000000000002b18      0x258 _build/nrf_pwm.o
+ .debug_frame   0x0000000000002d70       0x80 _build/system_nrf51.o
+ .debug_frame   0x0000000000002df0       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(eqsf2.o)
+ .debug_frame   0x0000000000002e1c       0x30 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(gesf2.o)
+ .debug_frame   0x0000000000002e4c       0x30 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(lesf2.o)
+ .debug_frame   0x0000000000002e7c       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatsisf.o)
+ .debug_frame   0x0000000000002ea8       0x28 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(floatunsisf.o)
+ .debug_frame   0x0000000000002ed0       0x3c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(adddf3.o)
+ .debug_frame   0x0000000000002f0c       0x3c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(divdf3.o)
+ .debug_frame   0x0000000000002f48       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(extendsfdf2.o)
+ .debug_frame   0x0000000000002f74       0x30 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(truncdfsf2.o)
+ .debug_frame   0x0000000000002fa4       0x20 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000002fc4       0x40 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atoi.o)
+ .debug_frame   0x0000000000003004       0x28 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x000000000000302c       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000003058       0x30 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000003088       0x38 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000000030c0       0x30 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strncpy.o)
+ .debug_frame   0x00000000000030f0       0x58 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-strtol.o)
+ .debug_frame   0x0000000000003148       0x54 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000000000000319c       0x28 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000000031c4       0x2c /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000000031f0       0x38 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000003228       0x20 /Users/hzikajr/Documents/Nordic/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv6-m/libnosys.a(_exit.o)
