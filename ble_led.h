@@ -12,7 +12,7 @@
  *           by calling the ble_nus_on_ble_evt() function from the @ref ble_stack_handler callback.
  */
 
-#ifndef BLE_NUS_H__
+######ifndef BLE_NUS_H__
 #define BLE_NUS_H__
 
 #include "ble.h"
